@@ -11,12 +11,12 @@ const HowWeWork = () => {
             How We Work
           </h2>
           <div className="flex justify-between items-center">
-            <p className="text-3xl text-white text-center">
+            <p className="text-2xl text-white text-center">
               Building Successful Collaborations for <br /> Climate Adaptation.
             </p>
             <Image src="/aboutUs/map.png" width={614} height={307} alt="map" />
           </div>
-          <p className="text-3xl text-center text-white font-light">
+          <p className="text-2xl text-center text-white font-light">
             A successful collaboration of this nature hinges on a collective
             tapestry of qualifications and success factors. Beyond our
             geographic reach with existing solutions, we have demonstrated

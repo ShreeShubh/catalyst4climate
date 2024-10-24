@@ -19,7 +19,7 @@ const HomePage = () => {
             <h1 className="font-semibold text-4xl text-[#003C66]">
               Transformative Collaborations for Climate Resilience
             </h1>
-            <p className="text-3xl text-[#003C66] font-light">
+            <p className="text-2xl text-[#003C66] font-light">
               Uniting Changemakers to Build a Sustainable Future
             </p>
           </div>
