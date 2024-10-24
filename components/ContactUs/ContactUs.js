@@ -2,6 +2,7 @@ import React from "react"
 import { Header } from "../Header/Header"
 import { contactUsData } from "@/utils/data"
 import Image from "next/image"
+import Link from "next/link"
 
 const ContactUs = () => {
   return (
@@ -48,9 +49,22 @@ const ContactUs = () => {
                         >
                           {item.desc}
                         </p>
-                        <button className="px-5 py-2 bg-[#003C66] rounded-full text-white">
-                          {item.button}
-                        </button>
+                        {/* Use Next.js Link for both mailto and external links */}
+                        <Link
+                          href={
+                            item.link.startsWith("mailto:")
+                              ? item.link
+                              : item.link
+                          }
+                          passHref
+                          target={
+                            item.link.startsWith("mailto:") ? "_self" : "_blank"
+                          }
+                        >
+                          <button className="px-5 py-2 bg-[#003C66] rounded-full text-white">
+                            {item.button}
+                          </button>
+                        </Link>
                       </div>
                     </div>
                   </div>

@@ -1,6 +1,7 @@
 "use client"
 
 import { cardData } from "@/utils/data"
+import Link from "next/link"
 
 import { useState, useEffect } from "react"
 import Select from "react-select"
@@ -127,10 +128,12 @@ const Pillar = () => {
                 }`}
               >
                 {/* Organization Name */}
-                <h3 className="font-bold text-lg text-black mb-3">
-                  <span className="text-xl">Organization Name</span>:{" "}
-                  {card.organizationName}
-                </h3>
+                <Link href={card.link} target="_blank">
+                  <h3 className="font-bold text-lg text-black mb-3">
+                    <span className="text-xl">Organization Name</span>:{" "}
+                    {card.organizationName}
+                  </h3>
+                </Link>
 
                 {/* International Presence */}
                 {card.internationalPresence && (

@@ -1347,6 +1347,7 @@ export const contactUsData = [
     bgColor: "#F16622",
     fontColor: "#ffffff",
     button: "Know more",
+    link: "mailto:mishri@catalyst2030.net",
   },
   {
     imageUrl: "/contactUs/image02.png",
@@ -1355,6 +1356,7 @@ export const contactUsData = [
     bgColor: "#1AB274",
     fontColor: "#ffffff",
     button: "Fill this form",
+    link: "https://docs.google.com/forms/d/1GOq9ZmCKNQmZ7YZFNnrUy_O0rc-qs_CNB_97D1UFpn8/viewform?edit_requested=true",
   },
   {
     imageUrl: "/contactUs/image03.png",
@@ -1363,5 +1365,65 @@ export const contactUsData = [
     bgColor: "#FFCA0B",
     fontColor: "#003C66",
     button: "Explore how!",
+    link: "mailto:collaborations@catalyst2030.net",
+  },
+]
+
+export const ourMembersData = [
+  {
+    logoUrl: "/aboutUs/members/member01.png",
+    link: "https://sekem.com/en/index/",
+  },
+  {
+    logoUrl: "/aboutUs/members/member02.png",
+    link: "https://www.industree.co.in/",
+  },
+  {
+    logoUrl: "/aboutUs/members/member03.png",
+    link: "https://www.sparcindia.org/",
+  },
+  {
+    logoUrl: "/aboutUs/members/member04.png",
+    link: "https://goonj.org/",
+  },
+  {
+    logoUrl: "/aboutUs/members/member05.png",
+    link: "https://www.karosambhav.com/",
+  },
+  {
+    logoUrl: "/aboutUs/members/member06.png",
+    link: "https://www.brac.net/",
+  },
+  {
+    logoUrl: "/aboutUs/members/member07.png",
+    link: "https://www.greenhope.co/",
+  },
+  {
+    logoUrl: "/aboutUs/members/member08.png",
+    link: "https://catalysts.global/",
+  },
+  {
+    logoUrl: "/aboutUs/members/member09.png",
+    link: "https://www.communitygrows.org/seed-to-mouth",
+  },
+  {
+    logoUrl: "/aboutUs/members/member10.png",
+    link: "https://cap-a.org/",
+  },
+  {
+    logoUrl: "/aboutUs/members/member11.png",
+    link: "https://catalyst2030.net/",
+  },
+  {
+    logoUrl: "/aboutUs/members/member12.png",
+    link: "https://old.transparency-initiative.org/",
+  },
+  {
+    logoUrl: "/aboutUs/members/member13.png",
+    link: "https://www.worldbank.org/ext/en/home",
+  },
+  {
+    logoUrl: "/aboutUs/members/member14.png",
+    link: "https://www.weforum.org/",
   },
 ]

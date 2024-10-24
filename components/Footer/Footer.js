@@ -5,7 +5,7 @@ import { Header } from "../Header/Header"
 const Footer = () => {
   return (
     <>
-      <div className="bg-black py-10">
+      <div className="bg-[#00152B] py-10">
         <div className="max-w-screen-xl mx-auto">
           <Header />
         </div>

@@ -4,6 +4,7 @@ import WhoWeAre from "./WhoWeAre/WhoWeAre"
 import MissionAndVision from "./MissionAndVision/MissionAndVision"
 import HowWeWork from "./HowWeWork/HowWeWork"
 import Footer from "../Footer/Footer"
+import Members from "./Members/Members"
 
 const AboutUs = () => {
   return (
@@ -15,6 +16,7 @@ const AboutUs = () => {
       </div>
       <WhoWeAre />
       <MissionAndVision />
+      <Members />
       <HowWeWork />
       <Footer />
     </>

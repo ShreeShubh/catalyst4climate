@@ -23,42 +23,42 @@ export function Header() {
       <Navbar.Toggle />
       <Navbar.Collapse>
         <Link href="/" passHref>
-          <Navbar.Link
+          <span
             className={`${
               pathname === "/" ? "text-[#FFCA0B]" : "text-white"
-            } font-light text-lg hover:text-[#FFCA0B]`}
+            } font-light text-lg hover:text-[#FFCA0B] cursor-pointer`}
           >
             Home
-          </Navbar.Link>
+          </span>
         </Link>
         <Link href="/about-us" passHref>
-          <Navbar.Link
+          <span
             className={`${
               pathname === "/about-us" ? "text-[#FFCA0B]" : "text-white"
-            } font-light text-lg hover:text-[#FFCA0B]`}
+            } font-light text-lg hover:text-[#FFCA0B] cursor-pointer`}
           >
             About Us
-          </Navbar.Link>
+          </span>
         </Link>
         <Link href="/climate-collaboration-in-action" passHref>
-          <Navbar.Link
+          <span
             className={`${
               pathname === "/climate-collaboration-in-action"
                 ? "text-[#FFCA0B]"
                 : "text-white"
-            } font-light text-lg hover:text-[#FFCA0B]`}
+            } font-light text-lg hover:text-[#FFCA0B] cursor-pointer`}
           >
             Climate Collaboration in Action
-          </Navbar.Link>
+          </span>
         </Link>
         <Link href="/contact-us" passHref>
-          <Navbar.Link
+          <span
             className={`${
               pathname === "/contact-us" ? "text-[#FFCA0B]" : "text-white"
-            } font-light text-lg hover:text-[#FFCA0B]`}
+            } font-light text-lg hover:text-[#FFCA0B] cursor-pointer`}
           >
             Contact Us
-          </Navbar.Link>
+          </span>
         </Link>
       </Navbar.Collapse>
     </Navbar>
