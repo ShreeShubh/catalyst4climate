@@ -91,13 +91,13 @@ export const missionAndVisionData = [
     iconUrl: "/aboutUs/mission/what.svg",
     bgColor: "#1AB274",
     title: "WHAT",
-    desc: "Reducing vulnerability and climate effects (carbon, waste, emission) and regenerating earth and communities.",
+    desc: "Reducing vulnerability and climate effects (carbon, waste, emission) and regenerating earth and communities",
   },
   {
     iconUrl: "/aboutUs/mission/how.svg",
     bgColor: "#FFCA0B",
     title: "HOW",
-    desc: "Scale solutions that work, in multiple local contexts,",
+    desc: "Scale solutions that work, in multiple local contexts",
   },
 ]
 
@@ -1374,7 +1374,7 @@ export const cardData = [
 export const contactUsData = [
   {
     imageUrl: "/contactUs/image01.png",
-    title: "Join the collaborative, community-centred conversations.",
+    title: "Join the collaborative, community-centred conversations",
     desc: "Reach out to mishri@catalyst2030.net",
     bgColor: "#F16622",
     fontColor: "#ffffff",

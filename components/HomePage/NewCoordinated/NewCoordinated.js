@@ -10,11 +10,11 @@ const NewCoordinated = () => {
             A New Coordinated Approach Led by Social Innovators
           </h1>
           <p className="text-[#003862] text-lg font-light">
-            Catalysts for Climate: A collective of key Climate Action players,
-            led by social innovators from the Global South. Equipped with 70+
-            evidence-backed, community-centred solutions to climate change that
-            are ready to scale globally, this collective is building the sector
-            with solutions at its centre.
+            <strong>Catalysts for Climate:</strong> A collective of key Climate
+            Action players, led by social innovators from the Global South.
+            Equipped with 70+ evidence-backed, community-centred solutions to
+            climate change that are ready to scale globally, this collective is
+            building the sector with solutions at its centre.
           </p>
         </div>
         <div>
