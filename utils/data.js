@@ -7,43 +7,75 @@ export const socialInnovatorsData = [
   {
     iconUrl: "/home/socialInnovators/icon02.png",
     title: "Global Aggregation",
-    desc: "Social innovators play a critical role in connecting local to global levels, testing and scaling solutions, and bridging communities with formal institutions.",
+    desc: "A global approach to aggregate various local solutions and involve funders, policymakers, and entrepreneurs in a complete loop of contextual solutions.",
   },
   {
     iconUrl: "/home/socialInnovators/icon03.png",
     title: "Localised Solutions",
-    desc: "Social innovators play a critical role in connecting local to global levels, testing and scaling solutions, and bridging communities with formal institutions.",
+    desc: "South-South cooperation mechanisms that drive funds directly to local actors without intermediaries.",
   },
   {
     iconUrl: "/home/socialInnovators/icon04.png",
     title: "Collective Mission",
-    desc: "Social innovators play a critical role in connecting local to global levels, testing and scaling solutions, and bridging communities with formal institutions.",
+    desc: "Alignment of message and strategy, consistency, and deliberate presence are critical to achieving collective action.",
   },
 ]
 
 export const membersData = [
   {
-    logoUrl: "/home/members/logo01.png",
+    logoUrl: "/home/scrollMembers/member01.png",
     title: "SEKEM",
   },
   {
-    logoUrl: "/home/members/logo02.png",
+    logoUrl: "/home/scrollMembers/member02.png",
     title: "Industree",
   },
   {
-    logoUrl: "/home/members/logo03.png",
+    logoUrl: "/home/scrollMembers/member03.png",
     title: "Industree",
   },
   {
-    logoUrl: "/home/members/logo04.png",
+    logoUrl: "/home/scrollMembers/member04.png",
     title: "Industree",
   },
   {
-    logoUrl: "/home/members/logo05.png",
+    logoUrl: "/home/scrollMembers/member05.png",
     title: "Industree",
   },
   {
-    logoUrl: "/home/members/logo06.png",
+    logoUrl: "/home/scrollMembers/member06.png",
+    title: "BRAC",
+  },
+  {
+    logoUrl: "/home/scrollMembers/member07.png",
+    title: "BRAC",
+  },
+  {
+    logoUrl: "/home/scrollMembers/member08.png",
+    title: "BRAC",
+  },
+  {
+    logoUrl: "/home/scrollMembers/member09.png",
+    title: "BRAC",
+  },
+  {
+    logoUrl: "/home/scrollMembers/member10.png",
+    title: "BRAC",
+  },
+  {
+    logoUrl: "/home/scrollMembers/member11.png",
+    title: "BRAC",
+  },
+  {
+    logoUrl: "/home/scrollMembers/member12.png",
+    title: "BRAC",
+  },
+  {
+    logoUrl: "/home/scrollMembers/member13.png",
+    title: "BRAC",
+  },
+  {
+    logoUrl: "/home/scrollMembers/member14.png",
     title: "BRAC",
   },
 ]

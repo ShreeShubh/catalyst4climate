@@ -46,7 +46,10 @@ const Members = () => {
         itemClass="carousel-item-padding-40-px"
       >
         {membersData.map((item, index) => (
-          <div key={index} className="flex flex-col items-center gap-3">
+          <div
+            key={index}
+            className="flex flex-col justify-center items-center gap-3 w-full h-full"
+          >
             <Image
               src={item.logoUrl} // Make sure logoUrl is correct
               width={150}
@@ -54,7 +57,7 @@ const Members = () => {
               alt={item.title}
               layout="intrinsic" // Added layout to handle intrinsic sizing
             />
-            <p className="text-base font-light">{item.title}</p>
+            {/* <p className="text-base font-light">{item.title}</p> */}
           </div>
         ))}
       </Carousel>
