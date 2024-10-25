@@ -15,13 +15,15 @@ const Footer = () => {
         <div className="max-w-screen-xl mx-auto px-4 sm:px-0">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 sm:gap-0">
             {/* Logo */}
-            <Image
-              src="/footerLogo.png"
-              width={204}
-              height={100}
-              className="mr-3"
-              alt="catalyst for climate"
-            />
+            <Link href="/">
+              <Image
+                src="/footerLogo.png"
+                width={204}
+                height={100}
+                className="mr-3"
+                alt="catalyst for climate"
+              />
+            </Link>
 
             {/* Navigation */}
             <ul className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
@@ -48,15 +50,15 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/climate-collaboration-in-action">
+                <Link href="/our-solutions">
                   <span
                     className={`${
-                      pathname === "/climate-collaboration-in-action"
+                      pathname === "/our-solutions"
                         ? "text-[#FFCA0B]"
                         : "text-white"
                     }  text-lg hover:text-[#FFCA0B] cursor-pointer`}
                   >
-                    Climate Collaboration in Action
+                    Our Solutions
                   </span>
                 </Link>
               </li>
