@@ -12,7 +12,7 @@ const SolutionsPipeline = () => {
           Advocacy and Governance, Environmental Sustainability, Disaster
           Resilience and Climate Adaptation, and other challenging areas.
         </p>
-        <Link href="/climate-collaboration-in-action">
+        <Link href="/our-solutions">
           <button className="px-9 py-3 bg-[#F16622] rounded-full text-white text-lg cursor-pointer hover:bg-[#FF7F3F] hover:shadow-lg transition duration-300 ease-in-out">
             Know more
           </button>
