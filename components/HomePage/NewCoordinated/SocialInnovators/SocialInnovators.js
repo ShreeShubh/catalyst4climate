@@ -6,11 +6,9 @@ import React from "react"
 import { useState } from "react"
 
 const SocialInnovators = () => {
-  // Set the first item (index 0) to be open by default
   const [openIndex, setOpenIndex] = useState(0)
 
   const toggleAccordion = (index) => {
-    // Only one item should be open at a time
     setOpenIndex(openIndex === index ? null : index)
   }
 
@@ -73,8 +71,10 @@ const SocialInnovators = () => {
                 </button>
               </div>
               <div
-                className={`transition-[max-height] duration-300 ease-in-out overflow-hidden ${
-                  isOpen ? "max-h-[1000px]" : "max-h-0"
+                className={`transition-all duration-500 ease-in-out overflow-hidden ${
+                  isOpen
+                    ? "max-h-[1000px] opacity-100 py-3"
+                    : "max-h-0 opacity-0 py-0"
                 }`}
               >
                 <p className="text-base sm:text-lg text-[#003862] font-light mt-2">
