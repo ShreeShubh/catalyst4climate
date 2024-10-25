@@ -13,7 +13,7 @@ export function Header() {
     <Navbar fluid rounded className="bg-transparent">
       <Navbar.Brand as={Link} href="/">
         <Image
-          src="/logo.png"
+          src="/logo01.png"
           width={204}
           height={100}
           className="mr-3"
