@@ -78,11 +78,10 @@ const Pillar = () => {
 
   return (
     <div className="max-w-screen-xl mx-auto my-10">
-      <div className="flex flex-col items-center h-screen p-10">
-        <div className="flex gap-5 mb-10 w-full justify-center">
+      <div className="flex flex-col items-center min-h-screen p-10">
+        <div className="flex flex-col sm:flex-row gap-5 mb-10 w-full justify-center">
           {/* Pillar Selection */}
-          <div className="w-1/2">
-            {/* <label className="block mb-2 text-center">Pillar</label> */}
+          <div className="w-full sm:w-1/2">
             <Select
               value={selectedOptions["Pillar"] || null}
               onChange={(selectedOption) =>
@@ -97,8 +96,7 @@ const Pillar = () => {
           </div>
 
           {/* Regions Covered Selection */}
-          <div className="w-1/2">
-            {/* <label className="block mb-2 text-center">Regions Covered</label> */}
+          <div className="w-full sm:w-1/2">
             <Select
               value={selectedOptions["Regions Covered"] || null}
               onChange={(selectedOption) =>
@@ -114,17 +112,13 @@ const Pillar = () => {
         </div>
 
         {/* Filtered Cards Display */}
-        <div className="max-h-screen overflow-y-auto">
+        <div className="max-h-screen overflow-y-auto w-full">
           <div className="grid grid-cols-1 gap-5">
             {filteredCards.map((card, index) => (
               <div
                 key={index}
                 className={`p-5 rounded-md ${
-                  index % 2 === 0
-                    ? "bg-[#FFCA0B]"
-                    : index % 2 === 1
-                    ? "bg-[#1AB274]"
-                    : "bg-white"
+                  index % 2 === 0 ? "bg-[#FFCA0B]" : "bg-[#1AB274]"
                 }`}
               >
                 {/* Organization Name */}

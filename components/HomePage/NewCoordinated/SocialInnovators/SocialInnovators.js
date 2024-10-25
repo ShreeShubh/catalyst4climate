@@ -15,7 +15,7 @@ const SocialInnovators = () => {
   }
 
   return (
-    <div className="w-[542px]">
+    <div className="w-full sm:w-[542px]">
       <ul className="flex flex-col gap-4">
         {socialInnovatorsData.map((item, index) => {
           const isOpen = openIndex === index
@@ -29,7 +29,7 @@ const SocialInnovators = () => {
                   alt={item.title}
                   className="w-10 h-10"
                 />
-                <h2 className="text-[#003C66] text-3xl font-semibold">
+                <h2 className="text-[#003C66] text-xl sm:text-3xl font-semibold">
                   {item.title}
                 </h2>
                 <button
@@ -69,13 +69,12 @@ const SocialInnovators = () => {
                   )}
                 </button>
               </div>
-              {/* Smooth transition for the description */}
               <div
                 className={`transition-[max-height] duration-300 ease-in-out overflow-hidden ${
                   isOpen ? "max-h-[1000px]" : "max-h-0"
                 }`}
               >
-                <p className="text-lg text-[#003862] font-light mt-2">
+                <p className="text-base sm:text-lg text-[#003862] font-light mt-2">
                   {item.desc}
                 </p>
               </div>
