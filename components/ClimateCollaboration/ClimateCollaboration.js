@@ -5,7 +5,7 @@ import Pillar from "./Pillar/Pillar"
 const ClimateCollaboration = () => {
   return (
     <>
-      <div className="bg-[url('/climateCollaboration/banner03.png')] bg-cover bg-center h-[60vh] flex flex-col">
+      <div className="bg-[url('/climateCollaboration/banner.png')] bg-cover bg-center h-[60vh] flex flex-col">
         <div className="max-w-screen-xl mx-auto py-3 w-full">
           <Header />
         </div>

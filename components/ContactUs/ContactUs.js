@@ -7,7 +7,7 @@ import Link from "next/link"
 const ContactUs = () => {
   return (
     <>
-      <div className="bg-[url('/contactUs/banner04.png')] bg-cover bg-center h-[60vh] flex flex-col">
+      <div className="bg-[url('/contactUs/banner.png')] bg-cover bg-center h-[60vh] flex flex-col">
         <div className="max-w-screen-xl mx-auto py-3 w-full">
           <Header />
         </div>
@@ -23,33 +23,37 @@ const ContactUs = () => {
               return (
                 <li key={index}>
                   <div
-                    className="p-5 rounded-3xl"
+                    className="p-5 rounded-3xl mx-3 md:mx-0"
                     style={{ backgroundColor: item.bgColor }}
                   >
-                    <div className="flex justify-between items-center">
+                    <div className="flex flex-col lg:flex-row justify-between items-center gap-5">
+                      {/* Image Section */}
                       <Image
                         src={item.imageUrl}
                         width={384}
                         height={256}
                         alt={item.title}
-                        className={`w-[384px] h-[256px] ${
-                          index % 2 == 1 ? "order-1" : ""
+                        className={`w-full lg:w-[384px] h-auto ${
+                          index % 2 == 1 ? "lg:order-1" : ""
                         }`}
                       />
-                      <div className="flex flex-col gap-3 items-center w-[495px]">
+
+                      {/* Text Section */}
+                      <div className="flex flex-col gap-3 items-center w-full lg:w-[495px] text-center">
                         <h2
-                          className="text-3xl font-semibold text-center"
+                          className="text-3xl font-semibold"
                           style={{ color: item.fontColor }}
                         >
                           {item.title}
                         </h2>
                         <p
-                          className="text-xl font-light text-center"
+                          className="text-xl font-light"
                           style={{ color: item.fontColor }}
                         >
                           {item.desc}
                         </p>
-                        {/* Use Next.js Link for both mailto and external links */}
+
+                        {/* Link Button */}
                         <Link
                           href={
                             item.link.startsWith("mailto:")
@@ -61,7 +65,7 @@ const ContactUs = () => {
                             item.link.startsWith("mailto:") ? "_self" : "_blank"
                           }
                         >
-                          <button className="px-5 py-2 bg-[#003C66] rounded-full text-white">
+                          <button className="px-5 py-2 bg-[#003C66] rounded-full text-white transition duration-300 ease-in-out transform hover:bg-[#005A99] hover:scale-105">
                             {item.button}
                           </button>
                         </Link>

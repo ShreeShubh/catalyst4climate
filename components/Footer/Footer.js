@@ -16,7 +16,7 @@ const Footer = () => {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 sm:gap-0">
             {/* Logo */}
             <Image
-              src="/logo.png"
+              src="/footerLogo.png"
               width={204}
               height={100}
               className="mr-3"
@@ -30,7 +30,7 @@ const Footer = () => {
                   <span
                     className={`${
                       pathname === "/" ? "text-[#FFCA0B]" : "text-white"
-                    } font-light text-lg hover:text-[#FFCA0B] cursor-pointer`}
+                    }  text-lg hover:text-[#FFCA0B] cursor-pointer`}
                   >
                     Home
                   </span>
@@ -41,7 +41,7 @@ const Footer = () => {
                   <span
                     className={`${
                       pathname === "/about-us" ? "text-[#FFCA0B]" : "text-white"
-                    } font-light text-lg hover:text-[#FFCA0B] cursor-pointer`}
+                    }  text-lg hover:text-[#FFCA0B] cursor-pointer`}
                   >
                     About Us
                   </span>
@@ -54,7 +54,7 @@ const Footer = () => {
                       pathname === "/climate-collaboration-in-action"
                         ? "text-[#FFCA0B]"
                         : "text-white"
-                    } font-light text-lg hover:text-[#FFCA0B] cursor-pointer`}
+                    }  text-lg hover:text-[#FFCA0B] cursor-pointer`}
                   >
                     Climate Collaboration in Action
                   </span>
@@ -67,7 +67,7 @@ const Footer = () => {
                       pathname === "/contact-us"
                         ? "text-[#FFCA0B]"
                         : "text-white"
-                    } font-light text-lg hover:text-[#FFCA0B] cursor-pointer`}
+                    }  text-lg hover:text-[#FFCA0B] cursor-pointer`}
                   >
                     Contact Us
                   </span>

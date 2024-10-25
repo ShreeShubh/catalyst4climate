@@ -20,7 +20,10 @@ const SocialInnovators = () => {
         {socialInnovatorsData.map((item, index) => {
           const isOpen = openIndex === index
           return (
-            <li key={index} className="flex flex-col gap-3">
+            <li
+              key={index}
+              className="flex flex-col gap-3 pb-5 border-b-2 border-[#D6EFFF]"
+            >
               <div className="flex items-center gap-3">
                 <Image
                   src={item.iconUrl}

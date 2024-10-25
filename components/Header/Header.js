@@ -21,12 +21,12 @@ export function Header() {
         />
       </Navbar.Brand>
       <Navbar.Toggle />
-      <Navbar.Collapse>
+      <Navbar.Collapse className="bg-white md:bg-transparent rounded-lg p-4">
         <Link href="/" passHref>
           <span
             className={`${
-              pathname === "/" ? "text-[#FFCA0B]" : "text-white"
-            } font-light text-lg hover:text-[#FFCA0B] cursor-pointer`}
+              pathname === "/" ? "text-[#1AB274]" : "text-[#003C66]"
+            }  text-lg hover:text-[#1AB274] cursor-pointer`}
           >
             Home
           </span>
@@ -34,28 +34,28 @@ export function Header() {
         <Link href="/about-us" passHref>
           <span
             className={`${
-              pathname === "/about-us" ? "text-[#FFCA0B]" : "text-white"
-            } font-light text-lg hover:text-[#FFCA0B] cursor-pointer`}
+              pathname === "/about-us" ? "text-[#1AB274]" : "text-[#003C66]"
+            }  text-lg hover:text-[#1AB274] cursor-pointer`}
           >
             About Us
           </span>
         </Link>
-        <Link href="/climate-collaboration-in-action" passHref>
+        <Link href="/our-solutions" passHref>
           <span
             className={`${
-              pathname === "/climate-collaboration-in-action"
-                ? "text-[#FFCA0B]"
-                : "text-white"
-            } font-light text-lg hover:text-[#FFCA0B] cursor-pointer`}
+              pathname === "/our-solutions"
+                ? "text-[#1AB274]"
+                : "text-[#003C66]"
+            }  text-lg hover:text-[#1AB274] cursor-pointer`}
           >
-            Climate Collaboration in Action
+            Our Solutions
           </span>
         </Link>
         <Link href="/contact-us" passHref>
           <span
             className={`${
-              pathname === "/contact-us" ? "text-[#FFCA0B]" : "text-white"
-            } font-light text-lg hover:text-[#FFCA0B] cursor-pointer`}
+              pathname === "/contact-us" ? "text-[#1AB274]" : "text-[#003C66]"
+            }  text-lg hover:text-[#1AB274] cursor-pointer`}
           >
             Contact Us
           </span>
