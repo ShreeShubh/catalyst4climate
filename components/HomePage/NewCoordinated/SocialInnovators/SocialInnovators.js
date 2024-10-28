@@ -77,7 +77,7 @@ const SocialInnovators = () => {
                     : "max-h-0 opacity-0 py-0"
                 }`}
               >
-                <p className="text-base sm:text-lg text-[#003862] font-light mt-2">
+                <p className="text-base sm:text-lg text-[#003862] mt-2">
                   {item.desc}
                 </p>
               </div>

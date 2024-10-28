@@ -77,7 +77,7 @@ const Pillar = () => {
   }
 
   return (
-    <div className="max-w-screen-xl mx-auto my-10">
+    <div className="max-w-screen-xl mx-auto mb-10 mt-7">
       <div className="flex flex-col items-center min-h-screen p-10">
         <div className="flex flex-col sm:flex-row gap-5 mb-10 w-full justify-center">
           {/* Pillar Selection */}

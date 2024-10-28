@@ -103,21 +103,21 @@ export const missionAndVisionData = [
 
 export const howWeWorkData = [
   {
-    title: "REACH",
-    desc: "We have South proven solutions across multiple geographies in Africa, Asia, and Latin America",
+    title: "Amplifying Knowledge & Expanding Impact",
+    desc: "We facilitate connections that allow people doing similar work to share insights and strategies. With every connection made, our volume of impact grows, extending far beyond individual actions to serve communities globally. This is how we ensure that those without access now receive support and resources.",
   },
   {
-    title: "LEADERSHIP",
-    desc: "We have mastered southern-led systems of participation, engagement, and decision-making towards climate finance and action",
+    title: "Integrating Climate into Every Survival Strategy",
+    desc: "We engage the Catalyst community to push the boundaries of science, technology, and intervention in climate work. We all believe that development and climate action can no longer exist in silos; every survival strategy on this planet needs a climate foundation. Catalyst for Climate seeks to embed this principle across all activities, making climate action inseparable from development goals.",
   },
   {
-    title: "IMPACT",
-    desc: "Our solutions contextualise high impact in adaptation, mitigation, loss, and damage by building economic resilience and social empowerment",
+    title: "Building Partnerships that Prioritise Impact",
+    desc: "We call on philanthropies, private sector organisations, and others to partner with us—not in isolation but as part of an integrated approach. The choice is ours whether we operate in a non-negotiable or interactive space. Through partnerships, we can create change that benefits both the economy and disenfranchised communities. Our network continually expands to include those with innovative ideas, the potential for scale, and advocacy skills, because we must be everywhere the climate needs a voice. Catalyst for Climate is about raising that collective voice.",
   },
-  {
-    title: "EXPERIENCE",
-    desc: "We have experience delivering across low-resource communities on the frontlines of climate change, creating dynamic and highly responsive capacities",
-  },
+  // {
+  //   title: "EXPERIENCE",
+  //   desc: "We have experience delivering across low-resource communities on the frontlines of climate change, creating dynamic and highly responsive capacities",
+  // },
 ]
 
 export const cardData = [
@@ -1457,5 +1457,47 @@ export const ourMembersData = [
   {
     logoUrl: "/aboutUs/members/member14.png",
     link: "https://www.weforum.org/",
+  },
+]
+
+export const galleryData = [
+  {
+    imageUrl: "/home/gallery/image01.png",
+  },
+  {
+    imageUrl: "/home/gallery/image02.png",
+  },
+  {
+    imageUrl: "/home/gallery/image03.png",
+  },
+  {
+    imageUrl: "/home/gallery/image04.png",
+  },
+  {
+    imageUrl: "/home/gallery/image05.png",
+  },
+  {
+    imageUrl: "/home/gallery/image06.png",
+  },
+  {
+    imageUrl: "/home/gallery/image07.png",
+  },
+  {
+    imageUrl: "/home/gallery/image08.png",
+  },
+  {
+    imageUrl: "/home/gallery/image09.png",
+  },
+  {
+    imageUrl: "/home/gallery/image10.png",
+  },
+  {
+    imageUrl: "/home/gallery/image11.png",
+  },
+  {
+    imageUrl: "/home/gallery/image12.png",
+  },
+  {
+    imageUrl: "/home/gallery/image13.png",
   },
 ]

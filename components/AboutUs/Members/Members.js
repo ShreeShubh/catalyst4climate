@@ -6,22 +6,24 @@ import React from "react"
 const Members = () => {
   return (
     <div className="max-w-screen-xl mx-auto mt-20">
-      <div className="flex flex-col items-center gap-10 px-10">
-        <h1 className="text-4xl font-semibold text-[#003C66]">Our Members</h1>
-        <p className="text-lg text-[#003862] font-light text-center">
-          We are a global movement of social entrepreneurs, innovators, and
-          community leaders working together to solve the world's most pressing
-          challenge - climate change. We collaborate across sectors to
-          accelerate impactful climate solutions, uniting efforts for
-          sustainable change.
+      <div className="flex flex-col items-center gap-8 px-10">
+        <h1 className="text-4xl font-semibold text-[#003C66] text-center">
+          Our Social Entrepreneurs
+        </h1>
+        <p className="text-lg text-[#003862] text-center">
+          Social entrepreneurs are more than advocates; they’re active agents of
+          change who bring tangible, measurable impact to their communities.
+          Social entrepreneurs are embedded in the daily lives of the
+          communities they serve. They build solutions grounded in local
+          knowledge, culture, and lived experience, ensuring that these
+          solutions are both effective and culturally relevant.
         </p>
-        <p className="text-lg text-[#003862] font-light text-center">
-          Active in 139 countries, with a focus on developing nations, we are
-          driving solutions that cover all 17 Sustainable Development Goals. By
-          catalysing innovation and finance to tackle the climate crisis, we are
-          impacting over a billion lives. Through our Climate Collaboration, we
-          work on mitigation, adaptation, and climate finance to ensure a
-          sustainable future for people and the planet.
+        <p className="text-lg text-[#003862] text-center">
+          This grassroots-driven approach is what sets Catalysts for Climate
+          apart. These innovators are not just talking about climate action;
+          they’re living it. They bring a sense of urgency and immediacy to the
+          issues at hand, which makes their contributions invaluable to the
+          fight against climate change.
         </p>
 
         <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6">

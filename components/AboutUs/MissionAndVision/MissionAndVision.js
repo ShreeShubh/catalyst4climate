@@ -4,11 +4,19 @@ import React from "react"
 
 const MissionAndVision = () => {
   return (
-    <div className="mt-20 flex flex-col items-center max-w-screen-xl mx-auto px-4">
+    <div className="mt-20 flex flex-col items-center max-w-screen-xl gap-8 mx-auto px-4">
       <h1 className="text-4xl font-semibold text-[#003C66]">
         Mission & Vision
       </h1>
-      <ul className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-14 mt-8">
+      <p className="text-base md:text-lg text-center text-[#003862]">
+        At Catalysts for Climate our mission is clear: amplify and scale climate
+        solutions led by social entrepreneurs deeply rooted in the communities
+        they serve. These visionary changemakers understand the unique
+        challenges of their communities and have crafted innovative, sustainable
+        solutions to address them—solutions that are proven, actionable, and
+        ready to scale.
+      </p>
+      <ul className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-14 mt-3">
         {missionAndVisionData.map((item, index) => {
           return (
             <li key={index} className="relative flex justify-center">

@@ -4,8 +4,8 @@ import React from "react"
 const SolutionsPipeline = () => {
   return (
     <div className="bg-[#003C66] flex items-center justify-center mt-20">
-      <div className="flex flex-col gap-5 items-center max-w-screen-xl mx-auto p-10">
-        <p className="text-lg font-light text-white text-center">
+      <div className="flex flex-col gap-8 items-center max-w-screen-xl mx-auto p-10">
+        <p className="text-lg text-white text-center">
           Explore the Solutions Pipeline developed by social innovators across
           multiple countries. Our solutions cover a wide range of themes,
           including Social Well-being and Equity, Economic Development, Policy

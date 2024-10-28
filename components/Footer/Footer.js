@@ -84,11 +84,11 @@ const Footer = () => {
       <div className="bg-[#003C66]">
         <div className="flex flex-col sm:flex-row items-center justify-between max-w-screen-xl mx-auto py-5 px-4 sm:px-0 gap-4 sm:gap-0">
           {/* Footer Text */}
-          <p className="text-white text-[14px] font-light text-center sm:text-left">
+          <p className="text-white text-[14px] text-center sm:text-left">
             Catalyst 2030 is incubated by the One Family Foundation in Amsterdam
             (NL)
           </p>
-          <p className="text-white text-[14px] font-light text-center sm:text-left">
+          <p className="text-white text-[14px] text-center sm:text-left">
             © Catalyst 2030 | Privacy Policy
           </p>
 

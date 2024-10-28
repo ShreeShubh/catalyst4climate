@@ -1,6 +1,7 @@
 import React from "react"
 import { Header } from "../Header/Header"
 import Pillar from "./Pillar/Pillar"
+import Image from "next/image"
 
 const ClimateCollaboration = () => {
   return (
@@ -16,19 +17,30 @@ const ClimateCollaboration = () => {
           <h1 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-center leading-snug">
             Climate Collaboration in Action: Our Solutions Pipeline
           </h1>
-          <p className="text-base sm:text-lg md:text-2xl font-light text-center">
-            Leveraging Catalyst 2030’s network of social innovators and
-            proximity leaders, this collective is building a pipeline
-            <br className="hidden sm:block" />
-            of tried-and-tested solutions from communities.
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-center leading-snug">
+            Scalable Solutions, Proven Impact
+          </h1>
+          <p className="text-base sm:text-lg md:text-2xl text-center">
+            Our platform doesn’t just connect social entrepreneurs; it’s a
+            robust tool for showcasing and scaling their solutions. From urban
+            heat adaptation products to community-led air and water quality
+            monitoring systems, each solution on this platform is:
           </p>
-          <p className="text-base sm:text-lg md:text-2xl font-light text-center">
-            These solutions come from India, Brazil, Bangladesh, Colombia,
-            Egypt, Kenya, and several other developing countries and explore key
-            intersections of climate with public health, food security,
-            dignified employment, disaster management, circularity, agriculture
-            and more.
-          </p>
+
+          <ul className="list-disc marker:text-[#1AB274] flex flex-col gap-3">
+            <li className="text-base sm:text-lg md:text-2xl">
+              Proven and Effective – All solutions have been tried, tested, and
+              proven effective in real-world conditions
+            </li>
+            <li className="text-base sm:text-lg md:text-2xl">
+              Community-Centric – Each initiative is designed and led by people
+              who understand the unique needs of their communities
+            </li>
+            <li className="text-base sm:text-lg md:text-2xl">
+              Scalable – Through partnerships and targeted financial support,
+              these solutions
+            </li>
+          </ul>
         </div>
       </div>
 

@@ -28,7 +28,7 @@ const responsive = {
 
 const Members = () => {
   return (
-    <div className="my-20">
+    <div className="my-20 bg-[#D6EFFF] py-10">
       <h1 className="text-4xl font-semibold text-[#003C66] text-center mb-10">
         Members
       </h1>

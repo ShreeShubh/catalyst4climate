@@ -11,10 +11,10 @@ const HowWeWork = () => {
             How We Work
           </h2>
           <div className="flex flex-col md:flex-row justify-between items-center gap-6 md:gap-10">
-            <p className="text-2xl text-white text-center md:text-left">
+            <h2 className="text-2xl text-white text-center font-semibold">
               Building Successful Collaborations for{" "}
               <br className="hidden md:block" /> Climate Adaptation.
-            </p>
+            </h2>
             <Image
               src="/aboutUs/map.png"
               width={614}
@@ -23,14 +23,15 @@ const HowWeWork = () => {
               className="w-full max-w-md md:max-w-lg lg:max-w-xl"
             />
           </div>
-          <p className="text-2xl text-center text-white font-light">
-            A successful collaboration of this nature hinges on a collective
-            tapestry of qualifications and success factors. Beyond our
-            geographic reach with existing solutions, we have demonstrated
-            leadership and expertise in working and engaging within the region.
-            In addition to this, our work has already generated significant
-            impact, and our vast experience makes us adaptable and responsive to
-            the changing landscape of climate adaptation and mitigation.
+          <p className="text-2xl text-center text-white ">
+            Our commitment is not just about individual projects; it’s about
+            creating a resilient, interwoven network of support, where those in
+            agriculture, technology, education, and more can immediately find
+            connections within our community. By leveraging the work of Catalyst
+            2030, we are building a profile-rich network with shared stories and
+            strategies. Catalyst for Climate is a platform where every member
+            can connect with a partner, ensuring that, together, we make the
+            climate movement a force for tangible, global change.
           </p>
         </div>
       </div>

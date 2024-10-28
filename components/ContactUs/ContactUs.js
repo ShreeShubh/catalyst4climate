@@ -47,7 +47,7 @@ const ContactUs = () => {
                           {item.title}
                         </h2>
                         <p
-                          className="text-xl font-light"
+                          className="text-xl"
                           style={{ color: item.fontColor }}
                         >
                           {item.desc}
