@@ -13,7 +13,7 @@ const HowWeWork = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-6 md:gap-10">
             <h2 className="text-2xl text-white text-center font-semibold">
               Building Successful Collaborations for{" "}
-              <br className="hidden md:block" /> Climate Adaptation.
+              <br className="hidden md:block" /> Climate Adaptation
             </h2>
             <Image
               src="/aboutUs/map.png"
