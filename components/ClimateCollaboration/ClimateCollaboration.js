@@ -38,7 +38,8 @@ const ClimateCollaboration = () => {
             </li>
             <li className="text-base sm:text-lg md:text-2xl">
               Scalable – Through partnerships and targeted financial support,
-              these solutions
+              these solutions can be adapted and expanded to benefit even more
+              communities
             </li>
           </ul>
         </div>

@@ -1463,41 +1463,54 @@ export const ourMembersData = [
 export const galleryData = [
   {
     imageUrl: "/home/gallery/image01.png",
+    mainImage: "/home/gallery/main/img01.jpg",
   },
   {
     imageUrl: "/home/gallery/image02.png",
+    mainImage: "/home/gallery/main/img02.jpg",
   },
   {
     imageUrl: "/home/gallery/image03.png",
+    mainImage: "/home/gallery/main/img03.jpg",
   },
   {
     imageUrl: "/home/gallery/image04.png",
+    mainImage: "/home/gallery/main/img04.jpeg",
   },
   {
     imageUrl: "/home/gallery/image05.png",
+    mainImage: "/home/gallery/main/img05.jpeg",
   },
   {
     imageUrl: "/home/gallery/image06.png",
+    mainImage: "/home/gallery/main/img06.jpeg",
   },
   {
     imageUrl: "/home/gallery/image07.png",
+    mainImage: "/home/gallery/main/img07.jpeg",
   },
   {
     imageUrl: "/home/gallery/image08.png",
+    mainImage: "/home/gallery/main/img08.jpeg",
   },
   {
     imageUrl: "/home/gallery/image09.png",
+    mainImage: "/home/gallery/main/img09.jpeg",
   },
   {
     imageUrl: "/home/gallery/image10.png",
+    mainImage: "/home/gallery/main/img10.jpeg",
   },
   {
     imageUrl: "/home/gallery/image11.png",
+    mainImage: "/home/gallery/main/img11.jpeg",
   },
   {
     imageUrl: "/home/gallery/image12.png",
+    mainImage: "/home/gallery/main/img12.jpeg",
   },
   {
     imageUrl: "/home/gallery/image13.png",
+    mainImage: "/home/gallery/main/img13.jpeg",
   },
 ]
