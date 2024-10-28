@@ -29,11 +29,7 @@ const ClimateAction = () => {
           target="_blank"
         >
           <button className="flex items-center gap-2 px-9 py-3 bg-[#F16622] rounded-full text-white text-lg cursor-pointer hover:bg-[#FF7F3F] hover:shadow-lg transition duration-300 ease-in-out">
-            <img
-              src="/home/linkedin.svg"
-              alt="LinkedIn icon"
-              className="w-5 h-5"
-            />
+            <img src="/linkedin.svg" alt="LinkedIn icon" className="w-5 h-5" />
             Click here
           </button>
         </Link>
