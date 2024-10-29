@@ -291,7 +291,7 @@ export const cardData = [
     internationalPresence: "Global South",
     regionsCovered: ["India "],
     solution:
-      "Darbar Sahitya Sansada (DSS) focuses on supporting agrarian, tribal, and forest-dwelling communities in Odisha, India, addressing food and livelihood security. They engage in activities like emergency flood relief, COVID relief efforts, and various projects aimed at empowering women through vegetable growing, tailoring training, supporting migrant labor, and providing cyclone and flood relief. Their work is aimed at enhancing the livelihood options of these marginalized sections of society amidst depleting resources\u200b.",
+      "Darbar Sahitya Sansada (DSS) focuses on supporting agrarian, tribal, and forest-dwelling communities in Odisha, India, addressing food and livelihood security. They engage in activities like emergency flood relief, COVID relief efforts, and various projects aimed at empowering women through vegetable growing, tailoring training, supporting migrant labor, and providing cyclone and flood relief. Their work is aimed at enhancing the livelihood options of these marginalized sections of society amidst depleting resources​.",
     pillar: "Economic Development",
     impacts: "",
   },
@@ -448,7 +448,7 @@ export const cardData = [
     internationalPresence: "Global South",
     regionsCovered: ["Kenya"],
     solution:
-      "The Climate Action Platform for Africa (CAP-A) is dedicated to transforming Africa into a leading force in climate action by leveraging the continent's unique advantages, including its renewable energy potential, youthful workforce, and rich natural resources. CAP-A seeks to drive economic growth through climate-smart strategies, aiming for not just a net-zero carbon footprint but a net-negative one, capitalizing on Africa's low current carbon emissions and substantial natural assets. Their approach involves building a strong, Africa-focused knowledge base to guide decision-making, promoting a narrative that emphasizes the opportunities climate action presents for Africa, and implementing pilot projects to demonstrate these opportunities' viability. ",
+      "The Climate Action Platform for Africa (CAP-A) is dedicated to transforming Africa into a leading force in climate action by leveraging the continent's unique advantages, including its renewable energy potential, youthful workforce, and rich natural resources. CAP-A seeks to drive economic growth through climate-smart strategies, aiming for not just a net-zero carbon footprint but a net-negative one, capitalizing on Africa's low current carbon emissions and substantial natural assets. Their approach involves building a strong, Africa-focused knowledge base to guide decision-making, promoting a narrative that emphasizes the opportunities climate action presents for Africa, and implementing pilot projects to demonstrate these opportunities' viability.",
     pillar: "Environmental Sustainability",
     impacts: "",
   },
@@ -496,7 +496,7 @@ export const cardData = [
     internationalPresence: "Global North",
     regionsCovered: ["Switzerland"],
     solution:
-      "South Pole offers various services and solutions to help organizations and individuals in their climate journey, including software integrations for sustainability agendas, transformative climate solutions, and a comprehensive approach to achieving Net Zero targets. They provide support in measuring footprints, setting targets, reducing footprints, financing climate action, and leading in climate communication\u200b",
+      "South Pole offers various services and solutions to help organizations and individuals in their climate journey, including software integrations for sustainability agendas, transformative climate solutions, and a comprehensive approach to achieving Net Zero targets. They provide support in measuring footprints, setting targets, reducing footprints, financing climate action, and leading in climate communication​",
     pillar: "Environmental Sustainability",
     impacts: "12,300,000 Lives improved",
   },
@@ -626,7 +626,7 @@ export const cardData = [
     internationalPresence: "Global South",
     regionsCovered: ["United Arab Emirates"],
     solution:
-      "Amaly Legacy (\u201cAmaly\u201d) is an organisation with a clear mission to unlock funds for NGOs and indigenous communities in developing countries through a blend of technology, asset management and social innovation studio. Our Asset management platform develops institutional grade high integrity nature-based solutions in Africa, across forest and farmland. We have assembled an exceptional team of scientists, tech engineers, geospatial analysts, strategy consultants and creative specialists backed by a board of advisors from Mubadala Investment Company, Government of the KSA, Government of Dubai, DP World and UNICEF USA, among others.",
+      "Amaly Legacy (“Amaly”) is an organisation with a clear mission to unlock funds for NGOs and indigenous communities in developing countries through a blend of technology, asset management and social innovation studio. Our Asset management platform develops institutional grade high integrity nature-based solutions in Africa, across forest and farmland. We have assembled an exceptional team of scientists, tech engineers, geospatial analysts, strategy consultants and creative specialists backed by a board of advisors from Mubadala Investment Company, Government of the KSA, Government of Dubai, DP World and UNICEF USA, among others.",
     pillar: "Environmental Sustainability\n&\nEconomic Development",
     impacts: "",
   },
@@ -661,7 +661,7 @@ export const cardData = [
     internationalPresence: "Global South",
     regionsCovered: ["Malawi"],
     solution:
-      "Youth-led non-profit organization that builds community-driven approaches for sustainable development. Their mission is to challenge socio-economic inequalities and assist in navigating the vulnerable populations in Malawi toward self-reliance.  COFO\u2019s vision is to build a community where all citizens have the opportunity for a high quality of life, including but not limited to high standards of education, gender equality, health and entrepreneurship.",
+      "Youth-led non-profit organization that builds community-driven approaches for sustainable development. Their mission is to challenge socio-economic inequalities and assist in navigating the vulnerable populations in Malawi toward self-reliance.  COFO’s vision is to build a community where all citizens have the opportunity for a high quality of life, including but not limited to high standards of education, gender equality, health and entrepreneurship.",
     pillar: "Social Well-being and Equity",
     impacts: "",
   },
@@ -741,7 +741,7 @@ export const cardData = [
     internationalPresence: "Global South",
     regionsCovered: ["Yemen"],
     solution:
-      "Improve Your Society Organization IYSO is a non-governmental independent organization in Yemen aiming at Peace building, promote youth participation in civic life , IYSO has started as a voluntary initiative and it has been registered legally as an organization since 2015. The objectives:\n- Peace building and spread culture of dialogue, justice and democracy.\n- Promoting youth participation in civic life and enabling them to play positive roles in influencing and positive change in community.\n- Develop youth initiatives aiming at community development and stability.\n- Contribute to improving awareness of human rights and against gender-based violence.\n- Capacity building of youth in economics, entrepreneurship and ICT.",
+      "Improve Your Society Organization IYSO is a non-governmental independent organization in Yemen aiming at Peace building, promote youth participation in civic life, IYSO has started as a voluntary initiative and it has been registered legally as an organization since 2015. The objectives:\n- Peace building and spread culture of dialogue, justice and democracy.\n- Promoting youth participation in civic life and enabling them to play positive roles in influencing and positive change in community.\n- Develop youth initiatives aiming at community development and stability.\n- Contribute to improving awareness of human rights and against gender-based violence.\n- Capacity building of youth in economics, entrepreneurship and ICT.",
     pillar: "Social Well-being and Equity",
     impacts: "",
   },
@@ -1367,6 +1367,16 @@ export const cardData = [
     solution:
       "The International Center for Climate Change and Development (ICCCAD) is a leading research and capacity-building organization focused on climate change and development. It aims to build and lead a network of Southern-based partner institutes to educate the world about climate change and development. ICCCAD conducts research, offers training, and facilitates knowledge sharing on climate resilience and sustainable development practices globally",
     pillar: "Environmental Sustainability",
+    impacts: "",
+  },
+  {
+    organizationName: "Million Sparks Foundation",
+    link: "https://millionsparks.org/",
+    internationalPresence: "Global South",
+    regionsCovered: ["India"],
+    solution:
+      "The Million Sparks Foundation (MSF) is a technology-driven education initiative focused on enhancing the capabilities of teachers. Their mission is to empower teachers, aiming to impact the learning outcomes of 300 Million school children through capacitating 10 Million teachers globally by 2025. They operate with the belief that education's purpose is to spark curiosity and learning in every child, with teachers serving as the catalysts for this process. To achieve this, they provide ChalkLit, a platform offering bite-sized training and resources through both mobile and web applications, specifically designed for teachers' professional development.",
+    pillar: "Education and Capacity Building",
     impacts: "",
   },
 ]

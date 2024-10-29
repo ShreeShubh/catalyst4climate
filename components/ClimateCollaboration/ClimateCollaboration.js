@@ -27,7 +27,7 @@ const ClimateCollaboration = () => {
             monitoring systems, each solution on this platform is:
           </p>
 
-          <ul className="list-disc marker:text-[#1AB274] flex flex-col gap-3">
+          <ul className="list-disc marker:text-[#1AB274] flex flex-col gap-3 px-3 md:px-0">
             <li className="text-base sm:text-lg md:text-2xl">
               Proven and Effective – All solutions have been tried, tested, and
               proven effective in real-world conditions
