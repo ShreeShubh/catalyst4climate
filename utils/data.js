@@ -1392,9 +1392,9 @@ export const contactUsData = [
     link: "mailto:mishri@catalyst2030.net",
   },
   {
-    imageUrl: "/contactUs/img02.png",
+    imageUrl: "/contactUs/img04.jpg",
     title: "Have a solution to share?",
-    desc: "",
+    desc: "Please let us know via this Google form",
     bgColor: "#1AB274",
     fontColor: "#ffffff",
     button: "Fill this form",

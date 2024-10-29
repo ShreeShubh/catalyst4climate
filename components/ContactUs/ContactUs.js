@@ -33,7 +33,7 @@ const ContactUs = () => {
                         width={384}
                         height={256}
                         alt={item.title}
-                        className={`w-full lg:w-[384px] h-auto ${
+                        className={`w-full lg:w-[384px] h-auto rounded-3xl ${
                           index % 2 == 1 ? "lg:order-1" : ""
                         }`}
                       />

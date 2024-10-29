@@ -94,34 +94,48 @@ const Footer = () => {
 
           {/* Social Media Icons */}
           <div className="flex gap-3 items-center justify-center">
-            <Image
-              src="/footer/vector01.png"
-              width={24}
-              height={24}
-              alt="facebook"
-              className="h-5 w-5"
-            />
-            <Image
-              src="/footer/vector02.png"
-              width={24}
-              height={24}
-              alt="twitter"
-              className="h-5 w-5"
-            />
-            <Image
-              src="/footer/vector03.png"
-              width={24}
-              height={24}
-              alt="instagram"
-              className="h-5 w-5"
-            />
-            <Image
-              src="/footer/vector04.png"
-              width={24}
-              height={24}
-              alt="linkedin"
-              className="h-5 w-5"
-            />
+            <Link href="https://www.facebook.com/Catalyst2030/" target="_blank">
+              <Image
+                src="/footer/vector01.png"
+                width={24}
+                height={24}
+                alt="facebook"
+                className="h-5 w-5 cursor-pointer"
+              />
+            </Link>
+            <Link
+              href="https://www.youtube.com/@Catalyst2030/videos"
+              target="_blank"
+            >
+              <Image
+                src="/footer/vector02.png"
+                width={24}
+                height={24}
+                alt="youtube"
+                className="h-5 w-5 cursor-pointer"
+              />
+            </Link>
+            <Link
+              href="https://www.linkedin.com/company/catalyst-2030/"
+              target="_blank"
+            >
+              <Image
+                src="/footer/vector03.png"
+                width={24}
+                height={24}
+                alt="linkedin"
+                className="h-5 w-5 cursor-pointer"
+              />
+            </Link>
+            <Link href="https://x.com/catalyst_2030" target="_blank">
+              <Image
+                src="/footer/vector04.png"
+                width={24}
+                height={24}
+                alt="twitter"
+                className="h-5 w-5 cursor-pointer"
+              />
+            </Link>
           </div>
         </div>
       </div>
