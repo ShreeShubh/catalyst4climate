@@ -412,7 +412,7 @@ export const cardData = [
       " Pakistan",
     ],
     solution:
-      "Swasti Health Catalyst is driven by the mission to enable people and communities, especially the marginalized, to make the right choices and lead healthy lives. Their core values include Leadership, Innovation, Vitality, and Expertise (LIVE), emphasizing community-driven solutions for sustainable change. They operate in diverse areas like Primary Health, Water, Sanitation and Hygiene (WaSH), Sexual Reproductive Health and Rights (SRHR), and Gender and Equity to improve wellbeing in vulnerable communities across 25 countries, reaching over 2 million people",
+      "Swasti Health Catalyst, is a glocal public health organization committed to adding 100 million ‘healthy days’ for Vulnerable Communities. With work across 25 countries, reaching over 2 million people, Swasti's mission is to upgrade the discourse from health to wellbeing and bring the missing pieces in wellbeing together (social, behavioural, management and technology) around the technical/medical aspects, with a strong focus on Health Systems Strengthening for equity and Community systems strengthening. Swasti's work includes: - Primary Health Care: Through grounded and telehealth models, Swasti enables the most marginalized and vulnerable communties to have access to quality and timely primary care. The programs reach 350k+ individuals across urban poor, rural, tribal, LGBTQ+ communities, etc.  - Climate Care Champions Program: Skilling frontline workers to prevent, identify and manage climate-related health needs of vulnerable populations and increase community resilience. Heat x Health has been launched in 2024, with pilot reaching over 30k+ individuals across India.  - Precision Health Platform: A public health preparedness platform with an early warning system that communities and city governments can use to strengthen their response and improve the overall public health ecosystem. It has been implemented across 5 urban cities in India.  - Community Resilience Hub: Assess existing climate resilience levels of farmers and fisherfolk in high-risk areas in India, specifically focusing on impacts on health; and support reformative actions for community resilience.  - Green Health Alliance: A holistic health ecosystem to mitigate the contributions of the health sector to climate change and enhance the resilience of the health ecosystem",
     pillar: "Well-being and Equity",
     impacts: "2,000,000 People Reached",
   },
@@ -1471,10 +1471,10 @@ export const ourMembersData = [
 ]
 
 export const galleryData = [
-  {
-    imageUrl: "/home/gallery/image01.png",
-    mainImage: "/home/gallery/main/img01.jpg",
-  },
+  // {
+  //   imageUrl: "/home/gallery/image01.png",
+  //   mainImage: "/home/gallery/main/img01.jpg",
+  // },
   {
     imageUrl: "/home/gallery/image02.png",
     mainImage: "/home/gallery/main/img02.jpg",

@@ -16,6 +16,13 @@ const NewCoordinated = () => {
             climate change that are ready to scale globally, this collective is
             building the sector with solutions at its centre.
           </p>
+          <p className="text-[#003862] text-base sm:text-lg">
+            At Catalyst 2030, we bridge the gap between local solutions and
+            global policy. Our dedicated efforts towards policy advocacy, led by
+            experts like Sheela Patel, Shiv Kumar and Helmy A are trying to
+            ensure that the voices of marginalised communities are not only
+            heard but prioritised in high-level discussions.
+          </p>
         </div>
         <div className="w-full sm:w-auto">
           <SocialInnovators />
