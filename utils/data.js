@@ -1383,7 +1383,7 @@ export const cardData = [
 
 export const contactUsData = [
   {
-    imageUrl: "/contactUs/image01.png",
+    imageUrl: "/contactUs/img01.png",
     title: "Join the collaborative, community-centred conversations",
     desc: "Reach out to mishri@catalyst2030.net",
     bgColor: "#F16622",
@@ -1392,7 +1392,7 @@ export const contactUsData = [
     link: "mailto:mishri@catalyst2030.net",
   },
   {
-    imageUrl: "/contactUs/image02.png",
+    imageUrl: "/contactUs/img02.png",
     title: "Have a solution to share?",
     desc: "",
     bgColor: "#1AB274",
@@ -1401,7 +1401,7 @@ export const contactUsData = [
     link: "https://docs.google.com/forms/d/1GOq9ZmCKNQmZ7YZFNnrUy_O0rc-qs_CNB_97D1UFpn8/viewform?edit_requested=true",
   },
   {
-    imageUrl: "/contactUs/image03.png",
+    imageUrl: "/contactUs/img03.png",
     title: "Want to support scaling any of these solutions?",
     desc: "Reach out to us at mishri@catalyst2030.net or collaborations@catalyst2030.net",
     bgColor: "#FFCA0B",

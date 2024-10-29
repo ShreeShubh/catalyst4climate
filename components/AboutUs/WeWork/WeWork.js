@@ -5,7 +5,7 @@ const WeWork = () => {
   return (
     <div className="bg-[#1AB274] pt-12 pb-16">
       <h2 className="text-4xl font-semibold text-white text-center">
-        How We Work
+        What We Do
       </h2>
       <div className="flex flex-col items-center justify-center mt-10 max-w-screen-xl mx-auto">
         <ul className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 px-3 md:px-0">
