@@ -1380,6 +1380,16 @@ export const cardData = [
     pillar: "Education and Capacity Building",
     impacts: "",
   },
+  {
+    organizationName: "Catalyst Management Services",
+    link: "https://cms.org.in/",
+    internationalPresence: "Global South",
+    regionsCovered: ["India"],
+    solution:
+      "CMS is a private consulting and professional services firm that drives social impact and sustainable development. Through strategic partnerships and tailored solutions, CMS maximizes social returns by investing in ideas, individuals, and institutions. Its services cover design (strategy and planning), evidence (research and insights), monitoring (systems and performance), and learning (knowledge application). \nCMS connects diverse development actors—from communities and program implementers to financiers, policymakers, and networks—building partnerships that create shared value across the development spectrum. \nIts work includes: \n1. Shoonya- Net Zero Initiative: Shoonya is a Net Zero initiative advancing People-Planet-Prosperity through sustainable approaches. It partners with SMEs to cut carbon, plastic, and water use and enhance circularity with tech, finance, and support. Shoonya’s solutions include converting plastic waste to oil via advanced pyrolysis and producing biochar from bamboo to boost carbon sequestration, regenerative agriculture, and farmer incomes. \n2. Aggregating demand and supporting supply of heat adaptation technologies to the vulnerable people- A market-led approach: As climate extremes worsen, India's most vulnerable communities face mounting risks, yet climate-friendly solutions struggle to reach them due to low demand and misaligned capital. The Catalyst Group addresses this gap with platforms that connect communities, innovators, and investors—building climate resilience by integrating health, livelihoods, and climate action.",
+    pillar: "Environmental Sustainability",
+    impacts: "",
+  },
 ]
 
 export const contactUsData = [
