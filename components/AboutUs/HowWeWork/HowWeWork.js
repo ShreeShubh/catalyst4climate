@@ -29,7 +29,7 @@ const HowWeWork = () => {
             agriculture, technology, education, and more can immediately find
             connections within our community. By leveraging the work of Catalyst
             2030, we are building a profile-rich network with shared stories and
-            strategies. Catalyst for Climate is a platform where every member
+            strategies. Catalysts for Climate is a platform where every member
             can connect with a partner, ensuring that, together, we make the
             climate movement a force for tangible, global change.
           </p>

@@ -41,9 +41,31 @@ const Pillar = () => {
     setFilteredCards(filtered)
   }
 
+  const getAvailableRegions = () => {
+    const pillarFilter = selectedOptions["Pillar"]
+
+    if (pillarFilter) {
+      // If a pillar is selected, show unique regions for that pillar only
+      return [
+        ...new Set(
+          cardData
+            .filter((card) => card.pillar === pillarFilter.value)
+            .flatMap((card) => card.regionsCovered)
+        ),
+      ].map((region) => ({ value: region, label: region }))
+    }
+
+    // If no pillar is selected, return all unique regions across all cards
+    return [...new Set(cardData.flatMap((card) => card.regionsCovered))].map(
+      (region) => ({ value: region, label: region })
+    )
+  }
+
   const getAvailablePillars = () => {
     const regionsCoveredFilter = selectedOptions["Regions Covered"]
+
     if (regionsCoveredFilter) {
+      // If a region is selected, show unique pillars available for that region only
       return [
         ...new Set(
           cardData
@@ -54,26 +76,12 @@ const Pillar = () => {
         ),
       ].map((pillar) => ({ value: pillar, label: pillar }))
     }
+
+    // If no region is selected, return all unique pillars across all cards
     return [...new Set(cardData.map((card) => card.pillar))].map((pillar) => ({
       value: pillar,
       label: pillar,
     }))
-  }
-
-  const getAvailableRegions = () => {
-    const pillarFilter = selectedOptions["Pillar"]
-    if (pillarFilter) {
-      return [
-        ...new Set(
-          cardData
-            .filter((card) => card.pillar === pillarFilter.value)
-            .flatMap((card) => card.regionsCovered)
-        ),
-      ].map((region) => ({ value: region, label: region }))
-    }
-    return [...new Set(cardData.flatMap((card) => card.regionsCovered))].map(
-      (region) => ({ value: region, label: region })
-    )
   }
 
   return (
