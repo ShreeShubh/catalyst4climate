@@ -414,7 +414,7 @@ export const cardData = [
       "India",
     ],
     solution:
-      "Swasti Health Catalyst, is a glocal public health organization committed to adding 100 million ‘healthy days’ for Vulnerable Communities. With work across 25 countries, reaching over 2 million people, Swasti's mission is to upgrade the discourse from health to wellbeing and bring the missing pieces in wellbeing together (social, behavioural, management and technology) around the technical/medical aspects, with a strong focus on Health Systems Strengthening for equity and Community systems strengthening. Swasti's work includes: - Primary Health Care: Through grounded and telehealth models, Swasti enables the most marginalized and vulnerable communties to have access to quality and timely primary care. The programs reach 350k+ individuals across urban poor, rural, tribal, LGBTQ+ communities, etc.  - Climate Care Champions Program: Skilling frontline workers to prevent, identify and manage climate-related health needs of vulnerable populations and increase community resilience. Heat x Health has been launched in 2024, with pilot reaching over 30k+ individuals across India.  - Precision Health Platform: A public health preparedness platform with an early warning system that communities and city governments can use to strengthen their response and improve the overall public health ecosystem. It has been implemented across 5 urban cities in India.  - Community Resilience Hub: Assess existing climate resilience levels of farmers and fisherfolk in high-risk areas in India, specifically focusing on impacts on health; and support reformative actions for community resilience.  - Green Health Alliance: A holistic health ecosystem to mitigate the contributions of the health sector to climate change and enhance the resilience of the health ecosystem",
+      "Swasti Health Catalyst, is a glocal public health organization committed to adding 100 million ‘healthy days’ for Vulnerable Communities. With work across 25 countries, reaching over 2 million people, Swasti's mission is to upgrade the discourse from health to wellbeing and bring the missing pieces in wellbeing together (social, behavioural, management and technology) around the technical/medical aspects, with a strong focus on Health Systems Strengthening for equity and Community systems strengthening. Swasti's work includes: \n\n- <strong>Primary Health Care:</strong> Through grounded and telehealth models, Swasti enables the most marginalized and vulnerable communties to have access to quality and timely primary care. The programs reach 350k+ individuals across urban poor, rural, tribal, LGBTQ+ communities, etc.  \n\n- <strong>Climate Care Champions Program:</strong> Skilling frontline workers to prevent, identify and manage climate-related health needs of vulnerable populations and increase community resilience. Heat x Health has been launched in 2024, with pilot reaching over 30k+ individuals across India.  \n\n- <strong>Precision Health Platform:</strong> A public health preparedness platform with an early warning system that communities and city governments can use to strengthen their response and improve the overall public health ecosystem. It has been implemented across 5 urban cities in India.  \n\n- <strong>Community Resilience Hub:</strong> Assess existing climate resilience levels of farmers and fisherfolk in high-risk areas in India, specifically focusing on impacts on health; and support reformative actions for community resilience.  \n\n- <strong>Green Health Alliance:</strong> A holistic health ecosystem to mitigate the contributions of the health sector to climate change and enhance the resilience of the health ecosystem",
     pillar: "Well-being and Equity",
     impacts: "2,000,000 People Reached",
   },
@@ -667,15 +667,15 @@ export const cardData = [
     pillar: "Social Well-being and Equity",
     impacts: "",
   },
-  {
-    organizationName: "Te Mana Consortium",
-    link: "https://www.linkedin.com/company/te-mana-consortium/",
-    internationalPresence: "Global North",
-    regionsCovered: ["New Zealand"],
-    solution: "",
-    pillar: "",
-    impacts: "",
-  },
+  // {
+  //   organizationName: "Te Mana Consortium",
+  //   link: "https://www.linkedin.com/company/te-mana-consortium/",
+  //   internationalPresence: "Global North",
+  //   regionsCovered: ["New Zealand"],
+  //   solution: "",
+  //   pillar: "",
+  //   impacts: "",
+  // },
   //   {
   //     organizationName: "FALA \u2013 impact studio",
   //     link: "",
@@ -702,7 +702,7 @@ export const cardData = [
       "Uganda",
     ],
     solution:
-      "Yunus Environment Hub focuses on tackling environmental issues through social business solutions. They aim to address climate change by promoting and implementing innovative, business-oriented approaches that have a positive impact on the environment. Their work is based in four pillars:\n1. Incubation of social business: We constantly grow an extensive pool of social business entrepreneurs that focus on environmental issues through incubator and accelerator programs.\n2. Venture building: We build new ventures together with companies, foundations, and other organizations and replicate existing solutions adapted to the local context in new regions.\n3. Consulting and training: We share our know-how and solutions through training, ideation, and co-creation formats to help organizations identify strategies to act upon the environmental crisis.\n4. Education: We enable community support networks, bring social business solutions to the international community, and raise awareness for the urgency of the environmental crisis.",
+      "Yunus Environment Hub focuses on tackling environmental issues through social business solutions. They aim to address climate change by promoting and implementing innovative, business-oriented approaches that have a positive impact on the environment. Their work is based in four pillars:\n\n1. Incubation of social business: We constantly grow an extensive pool of social business entrepreneurs that focus on environmental issues through incubator and accelerator programs.\n2. Venture building: We build new ventures together with companies, foundations, and other organizations and replicate existing solutions adapted to the local context in new regions.\n3. Consulting and training: We share our know-how and solutions through training, ideation, and co-creation formats to help organizations identify strategies to act upon the environmental crisis.\n4. Education: We enable community support networks, bring social business solutions to the international community, and raise awareness for the urgency of the environmental crisis.",
     pillar: "Environmental Sustainability",
     impacts:
       "- 28 IImplemented Programmes in 32 countries across 4 continents in 2022",
@@ -743,7 +743,7 @@ export const cardData = [
     internationalPresence: "Global South",
     regionsCovered: ["Yemen"],
     solution:
-      "Improve Your Society Organization IYSO is a non-governmental independent organization in Yemen aiming at Peace building, promote youth participation in civic life, IYSO has started as a voluntary initiative and it has been registered legally as an organization since 2015. The objectives:\n- Peace building and spread culture of dialogue, justice and democracy.\n- Promoting youth participation in civic life and enabling them to play positive roles in influencing and positive change in community.\n- Develop youth initiatives aiming at community development and stability.\n- Contribute to improving awareness of human rights and against gender-based violence.\n- Capacity building of youth in economics, entrepreneurship and ICT.",
+      "Improve Your Society Organization IYSO is a non-governmental independent organization in Yemen aiming at Peace building, promote youth participation in civic life, IYSO has started as a voluntary initiative and it has been registered legally as an organization since 2015. The objectives:\n\n- Peace building and spread culture of dialogue, justice and democracy.\n- Promoting youth participation in civic life and enabling them to play positive roles in influencing and positive change in community.\n- Develop youth initiatives aiming at community development and stability.\n- Contribute to improving awareness of human rights and against gender-based violence.\n- Capacity building of youth in economics, entrepreneurship and ICT.",
     pillar: "Social Well-being and Equity",
     impacts: "",
   },
@@ -789,15 +789,15 @@ export const cardData = [
     impacts:
       "- 14,541 households accessed basic needs services such as WASH, clean energy, housing, and literacy",
   },
-  {
-    organizationName: "Research Fellow, Imperial College London",
-    link: "",
-    internationalPresence: "",
-    regionsCovered: [""],
-    solution: "Academic expertise in food security solutions in Africa",
-    pillar: "",
-    impacts: "",
-  },
+  // {
+  //   organizationName: "Research Fellow, Imperial College London",
+  //   link: "",
+  //   internationalPresence: "",
+  //   regionsCovered: [""],
+  //   solution: "Academic expertise in food security solutions in Africa",
+  //   pillar: "",
+  //   impacts: "",
+  // },
   {
     organizationName: "Prolific Innovations Limited",
     link: "https://www.prolificinnovationsltd.com/",
@@ -995,7 +995,7 @@ export const cardData = [
     internationalPresence: "Global South",
     regionsCovered: ["Bangladesh"],
     solution:
-      "Friendship is a non-governmental organisation that helps poor people in Bangladesh. They make it their priority to reach communities in remote areas that are otherwise inaccessible. They strive to create sustainable solutions that work in the real world and help struggling communities become self-sufficient. The marginalised Char dwellers in Bangladesh count among the most underprivileged communities in the world. They focus now in 6 programmes\n- Health\r\n- Education\r\n- Disaster Management and Infrastructure Development\r\n- Good Governance\r\n- Sustainable Economic Development\r\n- Cultural Preservation.",
+      "Friendship is a non-governmental organisation that helps poor people in Bangladesh. They make it their priority to reach communities in remote areas that are otherwise inaccessible. They strive to create sustainable solutions that work in the real world and help struggling communities become self-sufficient. The marginalised Char dwellers in Bangladesh count among the most underprivileged communities in the world. They focus now in 6 programmes\n\n- Health\r\n- Education\r\n- Disaster Management and Infrastructure Development\r\n- Good Governance\r\n- Sustainable Economic Development\r\n- Cultural Preservation.",
     pillar: "Social Well-being and Equity \n&\nEnvironmental Sustainability",
     impacts:
       "- 330,000+ beneficiaries were covered through Inclusive Citizenship programmes",
@@ -1387,7 +1387,7 @@ export const cardData = [
     internationalPresence: "Global South",
     regionsCovered: ["India"],
     solution:
-      "CMS is a private consulting and professional services firm that drives social impact and sustainable development. Through strategic partnerships and tailored solutions, CMS maximizes social returns by investing in ideas, individuals, and institutions. Its services cover design (strategy and planning), evidence (research and insights), monitoring (systems and performance), and learning (knowledge application). \nCMS connects diverse development actors—from communities and program implementers to financiers, policymakers, and networks—building partnerships that create shared value across the development spectrum. \nIts work includes: \n1. Shoonya- Net Zero Initiative: Shoonya is a Net Zero initiative advancing People-Planet-Prosperity through sustainable approaches. It partners with SMEs to cut carbon, plastic, and water use and enhance circularity with tech, finance, and support. Shoonya’s solutions include converting plastic waste to oil via advanced pyrolysis and producing biochar from bamboo to boost carbon sequestration, regenerative agriculture, and farmer incomes. \n2. Aggregating demand and supporting supply of heat adaptation technologies to the vulnerable people- A market-led approach: As climate extremes worsen, India's most vulnerable communities face mounting risks, yet climate-friendly solutions struggle to reach them due to low demand and misaligned capital. The Catalyst Group addresses this gap with platforms that connect communities, innovators, and investors—building climate resilience by integrating health, livelihoods, and climate action.",
+      "CMS is a private consulting and professional services firm that drives social impact and sustainable development. Through strategic partnerships and tailored solutions, CMS maximizes social returns by investing in ideas, individuals, and institutions. Its services cover design (strategy and planning), evidence (research and insights), monitoring (systems and performance), and learning (knowledge application). \n\nCMS connects diverse development actors—from communities and program implementers to financiers, policymakers, and networks—building partnerships that create shared value across the development spectrum. \n\nIts work includes: \n\n1. <strong>Shoonya-</strong> Net Zero Initiative: Shoonya is a Net Zero initiative advancing People-Planet-Prosperity through sustainable approaches. It partners with SMEs to cut carbon, plastic, and water use and enhance circularity with tech, finance, and support. Shoonya’s solutions include converting plastic waste to oil via advanced pyrolysis and producing biochar from bamboo to boost carbon sequestration, regenerative agriculture, and farmer incomes. \n\n2. <strong>Aggregating demand and supporting supply of heat adaptation technologies to the vulnerable people-</strong> A market-led approach: As climate extremes worsen, India's most vulnerable communities face mounting risks, yet climate-friendly solutions struggle to reach them due to low demand and misaligned capital. The Catalyst Group addresses this gap with platforms that connect communities, innovators, and investors—building climate resilience by integrating health, livelihoods, and climate action.",
     pillar: "Environmental Sustainability",
     impacts: "",
   },

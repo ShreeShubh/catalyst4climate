@@ -152,9 +152,15 @@ const Pillar = () => {
                 </p>
 
                 {/* The Solution */}
-                <p className="mt-3">
-                  <strong>The Solution:</strong> {card.solution}
-                </p>
+                <p
+                  className="mt-3"
+                  dangerouslySetInnerHTML={{
+                    __html: `<strong>The Solution:</strong> ${card.solution.replace(
+                      /\n/g,
+                      "<br />"
+                    )}`,
+                  }}
+                ></p>
 
                 {/* Pillar */}
                 <p className="mt-3">
