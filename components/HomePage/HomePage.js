@@ -13,7 +13,7 @@ const HomePage = () => {
   return (
     <>
       {/* header section */}
-      <div className="bg-[url('/home/banner.png')] bg-cover h-screen flex flex-col">
+      <div className="bg-[url('https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/banner.png')] bg-cover h-screen flex flex-col">
         <div className="max-w-screen-xl mx-auto py-3 w-full">
           <Header />
         </div>

@@ -9,7 +9,7 @@ import Members from "./Members/Members"
 const AboutUs = () => {
   return (
     <>
-      <div className="bg-[url('/aboutUs/banner.png')] bg-cover bg-center h-[60vh] flex flex-col">
+      <div className="bg-[url('https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/banner.png')] bg-cover bg-center h-[60vh] flex flex-col">
         <div className="max-w-screen-xl mx-auto py-3 w-full">
           <Header />
         </div>

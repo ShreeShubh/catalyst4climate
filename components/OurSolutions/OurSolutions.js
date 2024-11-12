@@ -3,7 +3,7 @@ import { Header } from "../Header/Header"
 import Pillar from "./Pillar/Pillar"
 import Image from "next/image"
 
-const ClimateCollaboration = () => {
+const OurSolutions = () => {
   return (
     <>
       <div className="bg-[url('/climateCollaboration/banner.png')] bg-cover bg-center h-[60vh] flex flex-col">
@@ -50,4 +50,4 @@ const ClimateCollaboration = () => {
   )
 }
 
-export default ClimateCollaboration
+export default OurSolutions

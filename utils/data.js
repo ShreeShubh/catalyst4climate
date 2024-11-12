@@ -1,21 +1,25 @@
 export const socialInnovatorsData = [
   {
-    iconUrl: "/home/socialInnovators/icon01.png",
+    iconUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/socialInnovators/icon01.png",
     title: "Social Innovators as Connectors",
     desc: "Social innovators play a critical role in connecting local to global levels, testing and scaling solutions, and bridging communities with formal institutions.",
   },
   {
-    iconUrl: "/home/socialInnovators/icon02.png",
+    iconUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/socialInnovators/icon02.png",
     title: "Global Aggregation",
     desc: "A global approach to aggregate various local solutions and involve funders, policymakers, and entrepreneurs in a complete loop of contextual solutions.",
   },
   {
-    iconUrl: "/home/socialInnovators/icon03.png",
+    iconUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/socialInnovators/icon03.png",
     title: "Localised Solutions",
     desc: "South-South cooperation mechanisms that drive funds directly to local actors without intermediaries.",
   },
   {
-    iconUrl: "/home/socialInnovators/icon04.png",
+    iconUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/socialInnovators/icon04.png",
     title: "Collective Mission",
     desc: "Alignment of message and strategy, consistency, and deliberate presence are critical to achieving collective action.",
   },
@@ -23,78 +27,95 @@ export const socialInnovatorsData = [
 
 export const membersData = [
   {
-    logoUrl: "/home/scrollMembers/member01.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member01.png",
     title: "SEKEM",
   },
   {
-    logoUrl: "/home/scrollMembers/member02.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member02.png",
     title: "Industree",
   },
   {
-    logoUrl: "/home/scrollMembers/member03.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member03.png",
     title: "Industree",
   },
   {
-    logoUrl: "/home/scrollMembers/member04.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member04.png",
     title: "Industree",
   },
   {
-    logoUrl: "/home/scrollMembers/member05.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member05.png",
     title: "Industree",
   },
   {
-    logoUrl: "/home/scrollMembers/member06.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member06.png",
     title: "BRAC",
   },
   {
-    logoUrl: "/home/scrollMembers/member07.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member07.png",
     title: "BRAC",
   },
   {
-    logoUrl: "/home/scrollMembers/member08.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member08.png",
     title: "BRAC",
   },
   {
-    logoUrl: "/home/scrollMembers/member09.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member09.png",
     title: "BRAC",
   },
   {
-    logoUrl: "/home/scrollMembers/member10.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member10.png",
     title: "BRAC",
   },
   {
-    logoUrl: "/home/scrollMembers/member11.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member11.png",
     title: "BRAC",
   },
   {
-    logoUrl: "/home/scrollMembers/member12.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member12.png",
     title: "BRAC",
   },
   {
-    logoUrl: "/home/scrollMembers/member13.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member13.png",
     title: "BRAC",
   },
   {
-    logoUrl: "/home/scrollMembers/member14.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/scrollMembers/member14.png",
     title: "BRAC",
   },
 ]
 
 export const missionAndVisionData = [
   {
-    iconUrl: "/aboutUs/mission/why.svg",
+    iconUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/mission/why.svg",
     bgColor: "#F16622",
     title: "WHY",
     desc: "Locally relevant, owned, comprehensive development solutions exist and need to be scaled urgently, given the climate challenge",
   },
   {
-    iconUrl: "/aboutUs/mission/what.svg",
+    iconUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/mission/what.svg",
     bgColor: "#1AB274",
     title: "WHAT",
     desc: "Reducing vulnerability and climate effects (carbon, waste, emission) and regenerating earth and communities",
   },
   {
-    iconUrl: "/aboutUs/mission/how.svg",
+    iconUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/mission/how.svg",
     bgColor: "#FFCA0B",
     title: "HOW",
     desc: "Scale solutions that work, in multiple local contexts",
@@ -114,23 +135,9 @@ export const howWeWorkData = [
     title: "Building Partnerships that Prioritise Impact",
     desc: "We call on philanthropies, private sector organisations, and others to partner with us—not in isolation but as part of an integrated approach. The choice is ours whether we operate in a non-negotiable or interactive space. Through partnerships, we can create change that benefits both the economy and disenfranchised communities. Our network continually expands to include those with innovative ideas, the potential for scale, and advocacy skills, because we must be everywhere the climate needs a voice. Catalysts for Climate is about raising that collective voice.",
   },
-  // {
-  //   title: "EXPERIENCE",
-  //   desc: "We have experience delivering across low-resource communities on the frontlines of climate change, creating dynamic and highly responsive capacities",
-  // },
 ]
 
 export const cardData = [
-  //   {
-  //     organizationName: "Broadcast.org Media Foundation",
-  //     link: "",
-  //     internationalPresence: "Global North",
-  //     regionsCovered: ["Germany"],
-  //     solution:
-  //       "Setting up a media archive system to support Social Entrepreneurship globally. The archive will include international news and film coverage of innovative initiatives that solve social challenges in pursuit of attaining the United Nations\u2019 17 Sustainable Development Goals.",
-  //     pillar: "Education and Capacity Building",
-  //     impacts: "",
-  //   },
   {
     organizationName: "Goonj",
     link: "https://www.linkedin.com/company/goonj/",
@@ -181,16 +188,6 @@ export const cardData = [
     pillar: "Environmental Sustainability",
     impacts: "",
   },
-  //   {
-  //     organizationName: "Wings Balance Initiative (WBI)",
-  //     link: "",
-  //     internationalPresence: "Global South",
-  //     regionsCovered: ["United Republic of Tanzania"],
-  //     solution:
-  //       "Wings Balance Initiative (WBI) is a Non-Government Organization which formed Dar Es Salaam in order to deal with youth Living and Working on the Street, for the empowerment situation. It was established in March/2020 with the office Ukonga Majumbasita Kipawa Ward. Wings Balance Initiative is to support youth and development in Tanzania. Youth can transform to the nature of development and it benefits both society at large and the individual youth. WBI seek to contribute youth behavior change and development by advocating for youth living and working on the street Tanzania, encouraging partners to integrate youth activities into development programming, and mobilizing youth",
-  //     pillar: "Social Well-being and Equity",
-  //     impacts: "",
-  //   },
   {
     organizationName:
       "Sustainable Environment and Ecological Development Society (SEEDS)",
@@ -202,79 +199,6 @@ export const cardData = [
     pillar: "Disaster Resilience and Climate Adaptation",
     impacts: "- 75,35,666 Total Lives Touched",
   },
-  //   {
-  //     organizationName: "Empowering Plans Tanzania (EPT)",
-  //     link: "",
-  //     internationalPresence: "Global South",
-  //     regionsCovered: ["United Republic of Tanzania"],
-  //     solution: "",
-  //     pillar: "",
-  //     impacts: "",
-  //   },
-  //   {
-  //     organizationName: "Compass Education",
-  //     link: "",
-  //     internationalPresence: "Global North & Global South",
-  //     regionsCovered: [
-  //       "Australia",
-  //       " Belgium",
-  //       " Brazil",
-  //       " Cambodia",
-  //       " Canada",
-  //       " China",
-  //       " Colombia",
-  //       " Costa Rica",
-  //       " Cuba",
-  //       " Dominican Republic",
-  //       " France",
-  //       " Germany",
-  //       " Greece",
-  //       " Guatemala",
-  //       " Hong Kong",
-  //       " Special Administrative Region",
-  //       " China",
-  //       " Hungary",
-  //       " India",
-  //       " Israel",
-  //       " Italy",
-  //       " Japan",
-  //       " Lao",
-  //       " People's Democratic Republic Madagascar",
-  //       " Malaysia",
-  //       " Mexico",
-  //       " Morocco",
-  //       " Mozambique",
-  //       " Netherlands",
-  //       " Philippines",
-  //       " Puerto Rica",
-  //       " Qatar",
-  //       " Saudi Arabia",
-  //       " Singapore",
-  //       " South Africa",
-  //       " Spain",
-  //       " Sweden",
-  //       " Thailand",
-  //       " United Arab Emirates",
-  //       " United Kingdom",
-  //       " United States",
-  //       " Venezuela",
-  //       " Vietnam",
-  //     ],
-  //     solution:
-  //       "Compass Education supports transformative systems change in education, providing certified training courses for educators and administrators to develop systems thinking skills and the practical tools for committed action towards sustainability in their classroom, school and community.",
-  //     pillar: "Education and Capacity Building",
-  //     impacts: "",
-  //   },
-  //   {
-  //     organizationName: "Innovability",
-  //     link: "",
-  //     internationalPresence: "Global North",
-  //     regionsCovered: ["Italy"],
-  //     solution:
-  //       "Innovability specializes in producing 100% B2B events, including conferences, networking, exhibitions, end-user meetings, international talks, developer workshops, and awards. They focus on innovative digital technologies across various sectors such as IoT, electronics, telecommunications, and data analytics. Their activities span business development, event creation, marketing, promotion, and networking within the technology community",
-  //     pillar: "Technology and Innovation for Sustainability",
-  //     impacts: "",
-  //   },
   {
     organizationName: "People's Integrated For Development(PID)",
     link: "",
@@ -337,55 +261,6 @@ export const cardData = [
     pillar: "Environmental Sustainability",
     impacts: "20 Channels Press Mention",
   },
-  //   {
-  //     organizationName: "Haqdarshak Empowerment Solutions Pvt Ltd",
-  //     link: "",
-  //     internationalPresence: "Global South",
-  //     regionsCovered: ["India"],
-  //     solution:
-  //       "Haqdarshak is a social enterprise that aims to make access to government welfare schemes easy and transparent. Their vision is to improve socio-economic conditions and elevate the standard of living of communities by ensuring \u2018last-mile\u2019 service delivery of government welfare and financial services. They use technology to fill the gap in information by turning government welfare program details into an easy-to-use online library, available in many local languages of India. Create a simple tool that helps people find out quickly if they can get benefits from these programs. Send out trained workers to help people in their communities use this technology and apply for these programs. Give full support to help people from the beginning to the end of their application. Work to bring communities together and give them power. Help women earn money by offering them jobs in this project.",
-  //     pillar: "Social Well-being and Equity",
-  //     impacts: "",
-  //   },
-  //   {
-  //     organizationName: "Markevitch Media GmbH \u2013 ikonoTV",
-  //     link: "",
-  //     internationalPresence: "Global North & Global South",
-  //     regionsCovered: [
-  //       "Belgium",
-  //       " Canada",
-  //       " France",
-  //       " Germany",
-  //       " Israel",
-  //       " Italy",
-  //       " Japan",
-  //       " Korea",
-  //       " Democratic People's Republic of Lebanon",
-  //     ],
-  //     solution:
-  //       "ikonoTV is a global media platform that aggregates videos and films from the art, architecture, and design community.",
-  //     pillar: "Education and Capacity Building ",
-  //     impacts: "",
-  //   },
-  //   {
-  //     organizationName: "Digital Opportunity Trust",
-  //     link: "",
-  //     internationalPresence: "Global North & Global South",
-  //     regionsCovered: [
-  //       "Ethiopia",
-  //       " Jordan",
-  //       " Kenya",
-  //       " Lebanon",
-  //       " Rwanda",
-  //       " South Africa",
-  //       " United Republic of Tanzania",
-  //       " Uganda",
-  //     ],
-  //     solution:
-  //       "Digital Opportunity Trust (DOT) is an organization that is dedicated to empowering youth and communities through digital skills and entrepreneurship. They focus on empowering youth to become innovators and leaders in their communities. They implement programs that integrate technology into education and promote digital literacy. Supporting social innovation and entrepreneurship, particularly among underrepresented groups.",
-  //     pillar: "Education and Capacity Building",
-  //     impacts: "",
-  //   },
   {
     organizationName: "TrueFootprint",
     link: "https://www.truefootprint.com/",
@@ -522,96 +397,6 @@ export const cardData = [
     pillar: "Social Well-being and Equity",
     impacts: "",
   },
-  //   {
-  //     organizationName:
-  //       "Community Empowerment and Development Association (CEDA)",
-  //     link: "",
-  //     internationalPresence: "Global South",
-  //     regionsCovered: [
-  //       "Botswana",
-  //       " Malawi",
-  //       " Namibia",
-  //       " South Africa",
-  //       " Zambia",
-  //     ],
-  //     solution:
-  //       "Community Empowerment and Development Association (CEDA) is a welfare organization which focus on poverty reduction, capacity building, paralegal services and economic empowerment as well as reduction of HIV/AIDS, socio-economic research, advocacy and networking.",
-  //     pillar: "Social Well-being and Equity",
-  //     impacts: "",
-  //   },
-  //   {
-  //     organizationName: "Common Goal (Formerly Street Football World)",
-  //     link: "",
-  //     internationalPresence: "Global North & Global South",
-  //     regionsCovered: [
-  //       "Germany",
-  //       " United States",
-  //       " Ethiopia",
-  //       " Cape Verde",
-  //       " Malawi",
-  //       " South Sudan",
-  //       " Spain",
-  //       " Tunisia",
-  //       " Greece",
-  //       " Jordan",
-  //       " Rwanda",
-  //       " Nigeria",
-  //       " Ghana",
-  //       " Israel",
-  //       " Argentina",
-  //       " United Kingdom",
-  //       " Cameroon",
-  //       " Ireland",
-  //       " Serbia",
-  //       " Denmark",
-  //       " Bosnia",
-  //       " and Herzegovina",
-  //       " Italy",
-  //       " Botswana",
-  //       " Montenegro",
-  //       " Palestine",
-  //       " Poland",
-  //       " South Africa",
-  //       " Colombia",
-  //       " Australia",
-  //       " Romania",
-  //       " United Republic of Tanzania",
-  //       " Austria",
-  //       " Brazil",
-  //       " Burkina",
-  //       " Faso",
-  //       " Burundi",
-  //       " Cambodia",
-  //       " Canada",
-  //       " Congo",
-  //       " Costa Rica",
-  //       " Czech Republic",
-  //       " France",
-  //       " Georgia",
-  //       " Hungary",
-  //       " Iraq",
-  //       " Kenya",
-  //       " Kosovo",
-  //       " Lebanon",
-  //       " Lesotho",
-  //       " Liberia",
-  //       " Portugal",
-  //       " Mali",
-  //       " Mexico",
-  //       " Moldova",
-  //       " Mozambique",
-  //       " Netherlands",
-  //       " Sierra Leone",
-  //       " Switzerland",
-  //       " Uganda",
-  //       " Zambia",
-  //       " Zimbabwe",
-  //     ],
-  //     solution:
-  //       "Common Goal is an organization that brings together the global football community, including players, clubs, and fans, to support social change initiatives. They encourage members to pledge 1% of their income to fund various projects that aim to tackle important issues like racial justice, gender equity, environmental sustainability, mental health, and LGBTQ+ inclusion, in line with the United Nations Sustainable Development Goals. ",
-  //     pillar: "Social Well-being and Equity",
-  //     impacts: "",
-  //   },
   {
     organizationName: "EIT Climate-KIC",
     link: "https://www.climate-kic.org/",
@@ -641,22 +426,6 @@ export const cardData = [
     pillar: "",
     impacts: "",
   },
-  //   {
-  //     organizationName: "Vessels of Virtue",
-  //     link: "",
-  //     internationalPresence: "Global North & Global South",
-  //     regionsCovered: [
-  //       "South Africa",
-  //       " Malawi",
-  //       " Zambia",
-  //       " Ghana",
-  //       " Switzerland",
-  //     ],
-  //     solution:
-  //       "Vessels of Virtue a Social Enterprise, is Accelerating The Voice of Empowerment and Transformation to individuals, Corporates and Communities. The organization offers Training & Development for leaders, entrepreneurs & social entrepreneurs through the Academy. It runs Vessels Magazine that profiles leaders, entrepreneurs & social entrepreneurs. Vessels of Virtue runs a foundation for humanitarian work, has a beauty range & recognizes change makers through Vessels Awards.",
-  //     pillar: "Education and Capacity Building",
-  //     impacts: "",
-  //   },
   {
     organizationName: "Community Forum",
     link: "https://www.linkedin.com/in/cofo-management-b5186b205/",
@@ -667,25 +436,6 @@ export const cardData = [
     pillar: "Social Well-being and Equity",
     impacts: "",
   },
-  // {
-  //   organizationName: "Te Mana Consortium",
-  //   link: "https://www.linkedin.com/company/te-mana-consortium/",
-  //   internationalPresence: "Global North",
-  //   regionsCovered: ["New Zealand"],
-  //   solution: "",
-  //   pillar: "",
-  //   impacts: "",
-  // },
-  //   {
-  //     organizationName: "FALA \u2013 impact studio",
-  //     link: "",
-  //     internationalPresence: "Global South",
-  //     regionsCovered: ["Brazil"],
-  //     solution:
-  //       "FALA - Impact Studio crafts stories that endure, focusing on human rights, environmental preservation, and the principles of democracy. The studio is committed to the belief that every story has the power to inspire change and make a significant impact. With a portfolio that spans original projects and collaborations with various organizations and institutes, FALA - Impact Studio enhances these entities through strategic advice, data analysis, identifying trends, specialized listening, and the production of content and films that align with the goals of the 2030 Agenda.",
-  //     pillar: " Education and Capacity Building ",
-  //     impacts: "",
-  //   },
   {
     organizationName: "Yunus Environment Hub",
     link: "https://yunusenvironmenthub.com/",
@@ -707,15 +457,6 @@ export const cardData = [
     impacts:
       "- 28 IImplemented Programmes in 32 countries across 4 continents in 2022",
   },
-  //   {
-  //     organizationName: "",
-  //     link: "",
-  //     internationalPresence: "Global North",
-  //     regionsCovered: ["United States"],
-  //     solution: "",
-  //     pillar: "",
-  //     impacts: "",
-  //   },
   {
     organizationName:
       "RASALAO-CI (Réseau d'Action Sur les Armes Légères en Afrique de l'Ouest",
@@ -768,16 +509,6 @@ export const cardData = [
     pillar: "Economic Development\n&\nEnvironmental Sustainability",
     impacts: "- More than 21,130 Livelihoods of artisans & farmers supported",
   },
-  //   {
-  //     organizationName: "Indian Micro Enterprises Development Foundation",
-  //     link: "",
-  //     internationalPresence: "Global South",
-  //     regionsCovered: ["India "],
-  //     solution:
-  //       "The Indian Micro Enterprises Development Foundation (IMEDF) operates under the Development Alternatives Group with the goal of fostering a supportive environment for green and inclusive entrepreneurship. To this end, IMEDF focuses on:\r\n\r\n- Innovative Business Models: They facilitate the transfer and adaptation of innovative technology-based business models.\r\n- Financial Support: They assist entrepreneurs in obtaining credit and finance linkages.\r\n- Capacity Building: They offer training for business management, including technical skills for business planning and operations.\r\n- Market Integration: They help integrate products and services into local and broader market channels.\r\n\r\nIMEDF serves as a nexus, connecting entrepreneurs with technology sources, experts, investors, and consumers to fulfill essential requirements for technology, skills, capital, and market access. Their support extends to various forms of social enterprises, whether individual, community-based, aggregated services, franchised, or decentralized micro-enterprises.",
-  //     pillar: "Economic Development",
-  //     impacts: "",
-  //   },
   {
     organizationName: "Technology and Action for Rural Advancement",
     link: "https://www.tara.in/index",
@@ -789,15 +520,6 @@ export const cardData = [
     impacts:
       "- 14,541 households accessed basic needs services such as WASH, clean energy, housing, and literacy",
   },
-  // {
-  //   organizationName: "Research Fellow, Imperial College London",
-  //   link: "",
-  //   internationalPresence: "",
-  //   regionsCovered: [""],
-  //   solution: "Academic expertise in food security solutions in Africa",
-  //   pillar: "",
-  //   impacts: "",
-  // },
   {
     organizationName: "Prolific Innovations Limited",
     link: "https://www.prolificinnovationsltd.com/",
@@ -809,34 +531,6 @@ export const cardData = [
     impacts:
       "- The company has already made a meaningful impact by supporting 300 farmers through the provision of agricultural inputs",
   },
-  //   {
-  //     organizationName: "Pak Mission Society",
-  //     link: "https://www.linkedin.com/company/pak-mission-society/",
-  //     internationalPresence: "Global South",
-  //     regionsCovered: ["Pakistan"],
-  //     solution: "",
-  //     pillar: "",
-  //     impacts: "",
-  //   },
-  //   {
-  //     organizationName: "Baithak - Challenging Taboos",
-  //     link: "",
-  //     internationalPresence: "Global South",
-  //     regionsCovered: ["Pakistan"],
-  //     solution:
-  //       "Baithak is a youth and women-led organization focused on gender justice, including reproductive health and rights for girls and women in rural Pakistan, especially in rural Sindh. They engage in education, capacity building, and advocacy to address issues like menstrual hygiene management, gender-based violence, family planning, sexual and reproductive health and rights (SRHR), and climate and gender justice. Baithak aims to create a world where every woman has the freedom to exercise bodily autonomy and every gender has equal access to resources and opportunities",
-  //     pillar: "Social Well-being and Equity",
-  //     impacts: "",
-  //   },
-  //   {
-  //     organizationName: "Indigenous Scientist",
-  //     link: "",
-  //     internationalPresence: "",
-  //     regionsCovered: [""],
-  //     solution: "",
-  //     pillar: "",
-  //     impacts: "",
-  //   },
   {
     organizationName: "Keystone Foundation",
     link: "https://keystone-foundation.org/",
@@ -1000,15 +694,6 @@ export const cardData = [
     impacts:
       "- 330,000+ beneficiaries were covered through Inclusive Citizenship programmes",
   },
-  //   {
-  //     organizationName: "",
-  //     link: "",
-  //     internationalPresence: "Global South",
-  //     regionsCovered: ["Hong Kong"],
-  //     solution: "",
-  //     pillar: "",
-  //     impacts: "",
-  //   },
   {
     organizationName: "Canopy",
     link: "https://canopyplanet.org/",
@@ -1395,7 +1080,8 @@ export const cardData = [
 
 export const contactUsData = [
   {
-    imageUrl: "/contactUs/img01.png",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/contactUs/img01.png",
     title: "Join the collaborative, community-centred conversations",
     desc: "Reach out to mishri@catalyst2030.net",
     bgColor: "#F16622",
@@ -1404,7 +1090,8 @@ export const contactUsData = [
     link: "mailto:mishri@catalyst2030.net",
   },
   {
-    imageUrl: "/contactUs/img04.jpg",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/contactUs/img04.jpg",
     title: "Have a solution to share?",
     desc: "Please let us know via this Google form",
     bgColor: "#1AB274",
@@ -1413,7 +1100,8 @@ export const contactUsData = [
     link: "https://docs.google.com/forms/d/1GOq9ZmCKNQmZ7YZFNnrUy_O0rc-qs_CNB_97D1UFpn8/viewform?edit_requested=true",
   },
   {
-    imageUrl: "/contactUs/img03.png",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/contactUs/img03.png",
     title: "Want to support scaling any of these solutions?",
     desc: "Reach out to us at mishri@catalyst2030.net or collaborations@catalyst2030.net",
     bgColor: "#FFCA0B",
@@ -1425,114 +1113,147 @@ export const contactUsData = [
 
 export const ourMembersData = [
   {
-    logoUrl: "/aboutUs/members/member01.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member01.png",
     link: "https://sekem.com/en/index/",
   },
   {
-    logoUrl: "/aboutUs/members/member02.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member02.png",
     link: "https://www.industree.co.in/",
   },
   {
-    logoUrl: "/aboutUs/members/member03.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member03.png",
     link: "https://www.sparcindia.org/",
   },
   {
-    logoUrl: "/aboutUs/members/member04.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member04.png",
     link: "https://goonj.org/",
   },
   {
-    logoUrl: "/aboutUs/members/member05.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member05.png",
     link: "https://www.karosambhav.com/",
   },
   {
-    logoUrl: "/aboutUs/members/member06.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member06.png",
     link: "https://www.brac.net/",
   },
   {
-    logoUrl: "/aboutUs/members/member07.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member07.png",
     link: "https://www.greenhope.co/",
   },
   {
-    logoUrl: "/aboutUs/members/member08.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member08.png",
     link: "https://catalysts.global/",
   },
   {
-    logoUrl: "/aboutUs/members/member09.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member09.png",
     link: "https://www.communitygrows.org/seed-to-mouth",
   },
   {
-    logoUrl: "/aboutUs/members/member10.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member10.png",
     link: "https://cap-a.org/",
   },
   {
-    logoUrl: "/aboutUs/members/member11.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member11.png",
     link: "https://catalyst2030.net/",
   },
   {
-    logoUrl: "/aboutUs/members/member12.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member12.png",
     link: "https://old.transparency-initiative.org/",
   },
   {
-    logoUrl: "/aboutUs/members/member13.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member13.png",
     link: "https://www.worldbank.org/ext/en/home",
   },
   {
-    logoUrl: "/aboutUs/members/member14.png",
+    logoUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/members/member14.png",
     link: "https://www.weforum.org/",
   },
 ]
 
 export const galleryData = [
-  // {
-  //   imageUrl: "/home/gallery/image01.png",
-  //   mainImage: "/home/gallery/main/img01.jpg",
-  // },
   {
-    imageUrl: "/home/gallery/image02.png",
-    mainImage: "/home/gallery/main/img02.jpg",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/image02.png",
+    mainImage:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/main/img02.jpg",
   },
   {
-    imageUrl: "/home/gallery/image03.png",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/image03.png",
     mainImage: "/home/gallery/main/img03.jpg",
   },
   {
-    imageUrl: "/home/gallery/image04.png",
-    mainImage: "/home/gallery/main/img04.jpeg",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/image04.png",
+    mainImage:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/main/img04.jpeg",
   },
   {
-    imageUrl: "/home/gallery/image05.png",
-    mainImage: "/home/gallery/main/img05.jpeg",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/image05.png",
+    mainImage:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/main/img05.jpeg",
   },
   {
-    imageUrl: "/home/gallery/image06.png",
-    mainImage: "/home/gallery/main/img06.jpeg",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/image06.png",
+    mainImage:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/main/img06.jpeg",
   },
   {
-    imageUrl: "/home/gallery/image07.png",
-    mainImage: "/home/gallery/main/img07.jpeg",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/image07.png",
+    mainImage:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/main/img07.jpeg",
   },
   {
-    imageUrl: "/home/gallery/image08.png",
-    mainImage: "/home/gallery/main/img08.jpeg",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/image08.png",
+    mainImage:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/main/img08.jpeg",
   },
   {
-    imageUrl: "/home/gallery/image09.png",
-    mainImage: "/home/gallery/main/img09.jpeg",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/image09.png",
+    mainImage:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/main/img09.jpeg",
   },
   {
-    imageUrl: "/home/gallery/image10.png",
-    mainImage: "/home/gallery/main/img10.jpeg",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/image10.png",
+    mainImage:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/main/img10.jpeg",
   },
   {
-    imageUrl: "/home/gallery/image11.png",
-    mainImage: "/home/gallery/main/img11.jpeg",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/image11.png",
+    mainImage:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/main/img11.jpeg",
   },
   {
-    imageUrl: "/home/gallery/image12.png",
-    mainImage: "/home/gallery/main/img12.jpeg",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/image12.png",
+    mainImage:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/main/img12.jpeg",
   },
   {
-    imageUrl: "/home/gallery/image13.png",
-    mainImage: "/home/gallery/main/img13.jpeg",
+    imageUrl:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/image13.png",
+    mainImage:
+      "https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/home/gallery/main/img13.jpeg",
   },
 ]

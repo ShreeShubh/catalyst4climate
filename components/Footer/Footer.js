@@ -96,7 +96,7 @@ const Footer = () => {
           <div className="flex gap-3 items-center justify-center">
             <Link href="https://www.facebook.com/Catalyst2030/" target="_blank">
               <Image
-                src="/footer/vector01.png"
+                src="https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/footer/vector01.png"
                 width={24}
                 height={24}
                 alt="facebook"
@@ -108,7 +108,7 @@ const Footer = () => {
               target="_blank"
             >
               <Image
-                src="/footer/vector02.png"
+                src="https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/footer/vector02.png"
                 width={24}
                 height={24}
                 alt="youtube"
@@ -120,7 +120,7 @@ const Footer = () => {
               target="_blank"
             >
               <Image
-                src="/footer/vector03.png"
+                src="https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/footer/vector03.png"
                 width={24}
                 height={24}
                 alt="linkedin"
@@ -129,7 +129,7 @@ const Footer = () => {
             </Link>
             <Link href="https://x.com/catalyst_2030" target="_blank">
               <Image
-                src="/footer/vector04.png"
+                src="https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/footer/vector04.png"
                 width={24}
                 height={24}
                 alt="twitter"

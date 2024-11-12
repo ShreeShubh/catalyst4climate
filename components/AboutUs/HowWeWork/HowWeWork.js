@@ -16,7 +16,7 @@ const HowWeWork = () => {
               <br className="hidden md:block" /> Climate Adaptation
             </h2>
             <Image
-              src="/aboutUs/map.png"
+              src="https://s3.ap-south-1.amazonaws.com/com.cg.ivista.mediafiles/climate4catalyst/public/aboutUs/map.png"
               width={614}
               height={307}
               alt="map"
