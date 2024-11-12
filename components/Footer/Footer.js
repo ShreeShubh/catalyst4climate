@@ -89,7 +89,14 @@ const Footer = () => {
             (NL)
           </p>
           <p className="text-white text-[14px] text-center sm:text-left">
-            © Catalyst 2030 | Privacy Policy
+            © Catalyst 2030 |{" "}
+            <Link
+              href="https://catalyst2030.net/privacy-policy/"
+              target="_blank"
+              className="hover:text-[#FFCA0B]"
+            >
+              Privacy Policy
+            </Link>
           </p>
 
           {/* Social Media Icons */}
