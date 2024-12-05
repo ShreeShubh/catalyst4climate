@@ -53,11 +53,11 @@ const Gallery = () => {
               width={800}
               height={600}
               alt="Expanded gallery"
-              className="rounded-lg"
+              className="rounded-lg max-h-[90vh]"
             />
             <button
               onClick={closeModal}
-              className="absolute top-3 right-3 text-white text-2xl"
+              className="absolute top-3 right-3 text-black text-2xl"
             >
               &times;
             </button>
