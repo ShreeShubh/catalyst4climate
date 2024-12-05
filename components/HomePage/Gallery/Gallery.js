@@ -8,12 +8,14 @@ import { useState } from "react"
 const Gallery = () => {
   const [selectedImage, setSelectedImage] = useState(null)
 
-  const openModal = (imageUrl) => {
-    setSelectedImage(imageUrl)
+  const openModal = (image) => {
+    setSelectedImage(image)
+    document.body.style.overflow = "hidden" // Disable scrolling
   }
 
   const closeModal = () => {
     setSelectedImage(null)
+    document.body.style.overflow = "" // Re-enable scrolling
   }
 
   return (
